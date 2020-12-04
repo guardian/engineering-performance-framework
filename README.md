@@ -181,7 +181,12 @@ Communicates and documents their work thoroughly.
 
 ##### 2
 
-Drives work activities to meet team goals, helping to define tasks, business outcomes, technical quality & OKRs. <br/><br/>Helps keep the team focused on their long-term goals and values. <br/><br/>Gives regular feedback to the team and engineering manager and actively seeks to make improvements based on team and personal feedback. <br/><br/>Works with other Senior and Lead engineers to determine the technical architecture within the stream. <br/><br/>Shares what they have learnt by tackling difficult technical and people problems.<br/><br/>Regularly involved in cross-team discussions and uses their experience to influence outcomes (e.g. communicates own team’s context to improve shared understanding.)
+* Drives work activities to meet team goals, helping to define tasks, business outcomes, technical quality & OKRs.
+* Helps keep the team focused on their long-term goals and values. 
+* Gives regular feedback to the team and engineering manager and actively seeks to make improvements based on team and personal feedback.
+* Works with other Senior and Lead engineers to determine the technical architecture within the stream. 
+* Shares what they have learnt by tackling difficult technical and people problems.
+* Regularly involved in cross-team discussions and uses their experience to influence outcomes (e.g. communicates own team’s context to improve shared understanding.)
 
 ##### 3
 
@@ -224,10 +229,10 @@ Drives work activities to meet team goals, helping to define tasks, business out
 
 ##### 3
 
-* Lead Developers make successful delivery outcomes happen, for example by either:
- - Tech leading a significant engineering project which requires coordination with many other teams and disciplines within GNM.
- - Turning around the delivery trajectory of a struggling team.
- - Contributing strategically to the department’s technical and organisational decision making.
+* Lead Developers make successful delivery outcomes happen, for example by **either**:
+     * Tech leading a significant engineering project which requires coordination with many other teams and disciplines within GNM.
+     * Turning around the delivery trajectory of a struggling team.
+     * Contributing strategically to the department’s technical and organisational decision making.
 
 #### Innovation
 
