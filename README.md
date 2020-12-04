@@ -4,7 +4,7 @@
 
 ### Associate Developer
 
-#### People
+#### 👩‍👨 People
 
 ##### 2
 
@@ -16,7 +16,7 @@
 * Regularly collaborates with their team on their work.
 * Engages with departmental activities which uphold our departmental or engineering culture.
 
-#### Delivery
+#### 🚚 Delivery
 
 ##### 2
 
@@ -32,7 +32,7 @@
 * Provides support to other engineers.
 * Reviews PRs with helpful comments. 
 
-#### Innovation
+#### 💡 Innovation
 
 ##### 2
 
@@ -43,7 +43,7 @@
 * Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.
 * Actively exploring new approaches in their own work.
 
-#### Initiative and Influence
+#### ✨ Initiative and Influence
 
 ##### 2
 
@@ -63,7 +63,7 @@
 
 ### Software Developer
 
-#### People
+#### 👩‍👨 People
 
 ##### 2
 
@@ -76,7 +76,7 @@
 * Undertakes departmental activities which uphold our departmental or engineering culture.
 * Ensures the opinions of others in their team are heard and that decisions are made by consensus.
 
-#### Delivery
+#### 🚚 Delivery
 
 ##### 2
 
@@ -95,7 +95,7 @@
 * Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs from outside their immediate team with the same consideration.
 * Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.
 
-#### Innovation
+#### 💡 Innovation
 
 ##### 2
 
@@ -107,7 +107,7 @@
 * Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective.
 * Keeps up to date with evolving best practice in their field.
 
-#### Initiative and Influence
+#### ✨ Initiative and Influence
 
 ##### 2
 
@@ -129,7 +129,7 @@
 
 ### Senior Developer
 
-#### People
+#### 👩‍👨 People
 
 ##### 2
 
@@ -145,7 +145,7 @@
 *  Proactively encourages others to share their opinions and insight. Manages their own input to discussions to ensure they do not overly influence decisions.
 *  Coaches and mentors their colleagues to perform better, be happy, motivated and fulfilled in the work they undertake.
 
-#### Delivery
+#### 🚚 Delivery
 
 ##### 2
 
@@ -165,7 +165,7 @@
 * Brings the team or multiple teams together to maintain delivery pace and quality during periods of change and uncertainty.
 Communicates and documents their work thoroughly.
 
-#### Innovation
+#### 💡 Innovation
 
 ##### 2
 
@@ -177,7 +177,7 @@ Communicates and documents their work thoroughly.
 * Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.
 * Ensures that all members of the team are brought on board with new solutions, processes and technologies.
 
-#### Initiative and Influence
+#### ✨ Initiative and Influence
 
 ##### 2
 
@@ -199,7 +199,7 @@ Communicates and documents their work thoroughly.
 
 ### Lead Developer
 
-#### People
+#### 👩‍👨 People
 
 ##### 2
 
@@ -212,7 +212,7 @@ Communicates and documents their work thoroughly.
 * Identifies potential structural improvements to knowledge sharing, communication or culture of the department and acts on this to deliver improvements across the department.
 * Encourages all staff to perform better, be happy, motivated and fulfilled in the work they undertake.
 
-#### Delivery
+#### 🚚 Delivery
 
 ##### 2
 
@@ -234,7 +234,7 @@ Communicates and documents their work thoroughly.
      * Turning around the delivery trajectory of a struggling team.
      * Contributing strategically to the department’s technical and organisational decision making.
 
-#### Innovation
+#### 💡 Innovation
 
 ##### 2
 
@@ -245,7 +245,7 @@ Communicates and documents their work thoroughly.
 
 * Introduces new approaches that have an impact on most teams within the department.
 
-#### Initiative and Influence
+#### ✨ Initiative and Influence
 
 ##### 2
 
