@@ -1,5 +1,6 @@
 # engineering-performance-framework
 
+---
 
 ### Associate Developer
 
@@ -57,6 +58,8 @@
 * Regularly seizes opportunities such as demos or sponsor meetings, to communicate what they have been working on.
 * Makes data-backed suggestions on what the team should be doing next.
 * Takes opportunities to learn about wider department work through involvement in cross-team discussions.Represents the team occasionally but is likely to refer more complex issues to others. 
+
+---
 
 ### Software Developer
 
@@ -122,6 +125,8 @@
 * Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records). 
 * Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.
 
+---
+
 ### Senior Developer
 
 #### People
@@ -184,6 +189,8 @@ Drives work activities to meet team goals, helping to define tasks, business out
 * Demonstrates how the team can learn and improve from failures.
 * Always ensures plans and outcomes are well communicated to stakeholders and the wider business as appropriate (e.g. presents at Huddle Round Ups.)
 * Leads work with other teams to solve cross-team challenges. Understands concerns of other teams and works to balance delivery across boundaries in order to deliver the best outcome overall.
+
+---
 
 ### Lead Developer
 
