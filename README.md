@@ -6,15 +6,22 @@
 
 #### 👩‍👨 People
 
-##### 2
-
-* Proactively identifies opportunities to work with others.
-* Shows curiosity in others and their work.
-
-##### 3
-
-* Regularly collaborates with their team on their work.
-* Engages with departmental activities which uphold our departmental or engineering culture.
+<table>
+    <tr> <th>Level 2</th><th> Level 3</th></tr>
+    <tr>
+        <td>
+            <ul>
+<li> Proactively identifies opportunities to work with others.</li>
+<li> Shows curiosity in others and their work. </li>
+            </ul>
+         </td>
+        <td>
+ <ul>
+<li> Regularly collaborates with their team on their work. </li>
+<li> Engages with departmental activities which uphold our departmental or engineering culture. </li>
+         </td>
+     </tr>
+</table>
 
 #### 🚚 Delivery
 
