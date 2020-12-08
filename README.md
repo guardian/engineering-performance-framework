@@ -91,6 +91,8 @@
   </tr>
 </table>
 
+---
+
 ### Software Developer
 
 #### 👩‍👨 People
@@ -184,6 +186,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### Senior Developer
 
@@ -284,6 +288,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### Lead Developer
 
