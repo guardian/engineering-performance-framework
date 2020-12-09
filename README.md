@@ -7,7 +7,7 @@
 #### 👩‍👨 People
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -27,7 +27,7 @@
 #### 🚚 Delivery
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -51,7 +51,26 @@
 #### 💡 Innovation
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Finds creative and effective solutions in their own work.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.</li>
+        <li>Actively exploring new approaches in their own work.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### ✨ Initiative and Influence
+
+<table>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -72,24 +91,6 @@
   </tr>
 </table>
 
-#### ✨ Initiative and Influence
-
-<table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Finds creative and effective solutions in their own work.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.</li>
-        <li>Actively exploring new approaches in their own work.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -98,7 +99,7 @@
 #### 👩‍👨 People
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -119,7 +120,7 @@
 #### 🚚 Delivery
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -146,7 +147,7 @@
 #### 💡 Innovation
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -172,7 +173,7 @@
 #### ✨ Initiative and Influence
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -194,7 +195,7 @@
 #### 👩‍👨 People
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -218,7 +219,7 @@
 #### 🚚 Delivery
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -246,7 +247,27 @@
 #### 💡 Innovation
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Leads by example to promote and encourage a culture of continuous improvement within their team.</li>
+        <li>Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.</li>
+        <li>Ensures that all members of the team are brought on board with new solutions, processes and technologies.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### ✨ Initiative and Influence
+
+<table>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -269,26 +290,6 @@
   </tr>
 </table>
 
-#### ✨ Initiative and Influence
-
-<table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Leads by example to promote and encourage a culture of continuous improvement within their team.</li>
-        <li>Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.</li>
-        <li>Ensures that all members of the team are brought on board with new solutions, processes and technologies.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### Lead Developer
@@ -296,7 +297,7 @@
 #### 👩‍👨 People
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -317,7 +318,7 @@
 #### 🚚 Delivery
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -335,12 +336,13 @@
     </td>
     <td>
       <ul>
-        <li>Lead Developers make successful delivery outcomes happen, for example by:</li>
+        <li>Lead Developers make successful delivery outcomes happen, for example by <b>either</b>:
+        <ul>
         <li>Tech leading a significant engineering project which requires coordination with many other teams and disciplines within GNM.</li>
-        <li>OR</li>
         <li>Turning around the delivery trajectory of a struggling team.</li>
-        <li>OR</li>
         <li>Strategically contributing to the department’s technical and organisational decision making.</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -349,7 +351,26 @@
 #### 💡 Innovation
 
 <table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Identifies systemic problems and opportunities beyond the scope of one team, promotes and considers them with others and evaluates potential solutions. Seeks to find the 80/20 solution that delivers the greatest portion of value for the least effort/cost.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Introduces new approaches that have an impact on most teams within the department.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+#### ✨ Initiative and Influence
+
+<table>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
   <tr>
     <td>
       <ul>
@@ -366,24 +387,6 @@
         <li>Presents at conferences or hosts external meet-ups that champion Guardian Digital solutions, culture and values. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-#### ✨ Initiative and Influence
-
-<table>
-  <tr> <th>Level 2</th><th> Level 3</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Identifies systemic problems and opportunities beyond the scope of one team, promotes and considers them with others and evaluates potential solutions. Seeks to find the 80/20 solution that delivers the greatest portion of value for the least effort/cost.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Introduces new approaches that have an impact on most teams within the department.</li>
       </ul>
     </td>
   </tr>
