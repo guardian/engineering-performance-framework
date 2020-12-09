@@ -151,6 +151,24 @@
   <tr>
     <td>
       <ul>
+        <li>Critically evaluates innovative concepts and ideas presented by others. Suggests and helps to implement process improvements and engineering best practice.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. Keeps up to date with evolving best practice in their field.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### ✨ Initiative and Influence
+
+<table>
+  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr>
+    <td>
+      <ul>
         <li>Aligns what they are working on to their team’s goals. </li>
         <li>Regularly gives useful feedback to more senior colleagues. </li>
         <li>Seeks to fully understand the end goal of the tasks they pick up, and is mindful of this throughout the delivery lifecycle.</li>
@@ -165,24 +183,6 @@
         <li>Regularly demos their work to the team, stream or stakeholders, and contextualises the impact of that work. </li>
         <li>Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records). </li>
         <li>Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-#### ✨ Initiative and Influence
-
-<table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Critically evaluates innovative concepts and ideas presented by others. Suggests and helps to implement process improvements and engineering best practice.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. Keeps up to date with evolving best practice in their field.</li>
       </ul>
     </td>
   </tr>
