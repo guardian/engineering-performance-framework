@@ -119,6 +119,7 @@ finished - we should keep improving it as we use it.
       <ul>
         <li>Each quarter provides some mentoring or guidance to colleagues (e.g. mentoring, constructive PR reviews or discussing approaches online or offline).</li>
         <li>Always willing to help others.</li>
+        <li>Demonstrates inclusive behaviours as part of their everyday work.</li>
       </ul>
     </td>
     <td>
@@ -126,6 +127,7 @@ finished - we should keep improving it as we use it.
         <li>Regularly provides mentoring and guidance to colleagues and has become known for this. </li>
         <li>Undertakes departmental activities which uphold our departmental or engineering culture.</li>
         <li>Ensures the opinions of others in their team are heard and that decisions are made by consensus.</li>
+        <li>Participates in some activity which aims to improve the inclusivity of our department.</li>
       </ul>
     </td>
   </tr>
@@ -214,7 +216,7 @@ finished - we should keep improving it as we use it.
     <td>
       <ul>
         <li>Actively seeks to share knowledge with their colleagues, choosing communication method/styles that are appropriate to them and the situation.</li>
-        <li>Makes a positive contribution to the atmosphere and culture of the department.</li>
+        <li>Makes a positive contribution to the inclusivity, atmosphere and culture of the department.</li>
         <li>Regularly advises or mentors others in a way that accelerates their personal development.</li>
       </ul>
     </td>
@@ -222,7 +224,7 @@ finished - we should keep improving it as we use it.
       <ul>
         <li>Seeks to share knowledge beyond their team where useful/relevant (e.g delegates learning opportunities).</li>
         <li>Consistently communicates the intention and outcomes from their work, leaving their work in a state where others can easily pick it up (e.g produces well worded requirements, PRs, documentation, etc). Encourages this behaviour in others.</li>
-        <li>Engages with departmental activities which improve our company or engineering culture.</li>
+        <li>Engages with departmental activities which improve our company or engineering culture and inclusivity.</li>
         <li>Proactively encourages others to share their opinions and insight. Manages their own input to discussions to ensure they do not overly influence decisions.</li>
         <li>Coaches and mentors their colleagues to perform better, be happy, motivated and fulfilled in the work they undertake.</li>
       </ul>
