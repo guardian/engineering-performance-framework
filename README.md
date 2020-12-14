@@ -1,5 +1,19 @@
 # engineering-performance-framework
 
+This is the framework we use to assess the performance of engineers every 6
+months.  For each role it is split into the same 4 categories: People,
+Delivery, Innovation and Initiative & Influence.  Each category is scored on a
+1-3 scale.  The requirements for 2 and 3 are listed explicitly, and a score of
+1 indicates not consistently meeting what is required to score 2.
+
+Much like the software we write, this framework will never be perfect or
+finished - we should keep improving it as we use it.
+
+* [Associate Developer](#associate-developer)
+* [Software Developer](#software-developer)
+* [Senior Developer](#senior-developer)
+* [Lead Developer](#lead-developer)
+
 ---
 
 ### Associate Developer
