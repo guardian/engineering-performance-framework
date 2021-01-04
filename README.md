@@ -14,6 +14,11 @@ finished - we should keep improving it as we use it.
 * [Senior Developer](#senior-developer)
 * [Lead Developer](#lead-developer)
 
+
+* [Associate Engineering Manager](./management/associate-engineering-manager.md)
+* [Engineering Manager](./management/engineering-manager.md)
+* [Senior Engineering Manager](./management/senior-engineering-manager.md)
+
 ---
 
 ### Associate Developer
