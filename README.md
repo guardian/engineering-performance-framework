@@ -1,4 +1,4 @@
-# engineering-performance-framework
+# Engineering performance framework
 
 This is the framework we use to assess the performance of engineers every 6
 months.  For each role it is split into the same 4 categories: People,
