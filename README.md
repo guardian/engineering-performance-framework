@@ -295,7 +295,7 @@ finished - we should keep improving it as we use it.
         <li>Drives work activities to meet team goals, helping to define tasks, business outcomes, technical quality & OKRs. </li>
         <li>Helps keep the team focused on their long-term goals and values. </li>
         <li>Gives regular feedback to the team and engineering manager and actively seeks to make improvements based on team and personal feedback. </li>
-        <li>Works with other Senior and Lead engineers to determine the technical architecture within the stream. </li>
+        <li>Works with other engineers to determine the technical architecture within the stream. </li>
         <li>Shares what they have learnt by tackling difficult technical and people problems.</li>
         <li>Regularly involved in cross-team discussions and uses their experience to influence outcomes (e.g. communicates own team’s context to improve shared understanding.)</li>
       </ul>
