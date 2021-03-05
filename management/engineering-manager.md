@@ -47,6 +47,20 @@
         <ul>
           <li>Read submissions for non line managed individuals</li>
         </ul>
+        <li>Inclusion</li>
+        <ul>
+          <li>
+            Regularly discuss inclusivity with their line reports, helping those
+            who exhibit non-inclusive behaviour to improve in this area, and
+            helping all of their reports to increase the level of inclusion in
+            the department
+          </li>
+          <li>
+            Able to discuss specific instances of non-inclusive behaviour with
+            individuals after the fact, discussing the impact and changing
+            future behaviour
+          </li>
+        </ul>
       </ul>
     </td>
     <td>
@@ -145,6 +159,17 @@
             clearly to stakeholders.
           </li>
         </ul>
+        <li>Inclusion</li>
+        <ul>
+          <li>
+            Ensure reliable long-term delivery by sharing knowledge across the
+            whole team
+          </li>
+          <li>
+            Ensure all team members are provided with learning and growth
+            opportunities, as an investment in future delivery performance
+          </li>
+        </ul>
       </ul>
     </td>
     <td>
@@ -198,6 +223,18 @@
             Ensures that all members of their team have a clear grasp of the KR
             for their products and that they are focused on improving them
           </li>
+          <li>
+            Consider inclusivity when making decisions about their team’s
+            direction, and the effect of their behaviour on how inclusive their
+            team is.
+          </li>
+          <li>Empower all members of your team to make decisions</li>
+          <li>Ensure everyone’s voice is heard</li>
+          <li>
+            Judge when to call out non-inclusive behaviour in the moment, and
+            when to follow up on a 1-2-1 basis
+          </li>
+          <li>Ensure decisions are made in a transparent way</li>
         </ul>
         <li>Stakeholders</li>
         <ul>
