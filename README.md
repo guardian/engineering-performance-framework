@@ -158,7 +158,7 @@ finished - we should keep improving it as we use it.
         <li>Identifies problems to solve and engages the team in scoping and prioritising their delivery.</li>
         <li>Delivers outcomes ahead of schedule.</li>
         <li>Evaluates multiple options to solve technical problems and is trusted by the team to implement their recommended solution.</li>
-        <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs from outside their immediate team with the same consideration.</li>
+        <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs in projects where they have less context (e.g. outside their immediate team or dormant projects) with the same consideration.</li>
         <li>Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.</li>
       </ul>
     </td>
