@@ -12,7 +12,7 @@ finished - we should keep improving it as we use it.
 * [Associate Developer](#associate-developer)
 * [Software Developer](#software-developer)
 * [Senior Developer](#senior-developer)
-* [Lead Developer](#lead-developer)
+* [Staff Developer](#staff-developer)
 
 
 * [Associate Engineering Manager](./management/associate-engineering-manager.md)
@@ -313,7 +313,7 @@ finished - we should keep improving it as we use it.
 
 ---
 
-### Lead Developer
+### Staff Developer
 
 #### 👩‍👨 People
 
@@ -357,7 +357,7 @@ finished - we should keep improving it as we use it.
     </td>
     <td>
       <ul>
-        <li>Lead Developers make successful delivery outcomes happen, for example by <b>either</b>:
+        <li>Staff Developers make successful delivery outcomes happen, for example by <b>either</b>:
         <ul>
         <li>Tech leading a significant engineering project which requires coordination with many other teams and disciplines within GNM.</li>
         <li>Turning around the delivery trajectory of a struggling team.</li>
