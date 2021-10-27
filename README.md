@@ -1,13 +1,22 @@
 # Engineering performance framework
 
 This is the framework we use to assess the performance of engineers every 6
-months.  For each role it is split into the same 4 categories: People,
-Delivery, Innovation and Initiative & Influence.  Each category is scored on a
-1-3 scale.  The requirements for 2 and 3 are listed explicitly, and a score of
-1 indicates not consistently meeting what is required to score 2.
+months. Much like the software we write, this framework will never be perfect or finished.
 
-Much like the software we write, this framework will never be perfect or
-finished - we should keep improving it as we use it.
+For each role it is split into the same 4 categories:
+* 👩‍👨 People
+* 🚚 Delivery
+* 💡 Innovation
+* ✨ Initiative & Influence.
+
+#### Score
+
+During a performance asssement, each category is scored on a `1-3` scale:
+ * `1`: Not consistently meeting requirements of `Level 2`.
+ * `2`: Consistently meeting requirements of `Level 2`
+ * `3`: Consistently meeting requirements of `Level 3`
+
+#### Roles
 
 * [Associate Developer](#associate-developer)
 * [Software Developer](#software-developer)
@@ -18,6 +27,9 @@ finished - we should keep improving it as we use it.
 * [Associate Engineering Manager](./management/associate-engineering-manager.md)
 * [Engineering Manager](./management/engineering-manager.md)
 * [Senior Engineering Manager](./management/senior-engineering-manager.md)
+
+#### Salary bands
+[Salary bands for each role](./salary-bands.md)
 
 ---
 
