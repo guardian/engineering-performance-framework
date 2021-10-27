@@ -20,7 +20,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
 
 ##### Individual Contributor
 
-* [Associate Developer](#associate-developer)
+* [Fellow and Associate Developer](#fellow-and-associate-developer)
 * [Software Developer](#software-developer)
 * [Senior Developer](#senior-developer)
 * [Staff Developer](#staff-developer)
@@ -38,7 +38,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 
 ---
 
-### Associate Developer
+### Fellow and Associate Developer
 
 #### 👩‍👨 People
 
