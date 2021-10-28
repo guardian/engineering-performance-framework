@@ -1,8 +1,6 @@
+# Engineering Manager
 
-### Engineering Manager
-
-#### 👩‍👨 People
-
+## 👩‍👨 People
 
 <table>
   <tr>
@@ -103,9 +101,7 @@
   </tr>
 </table>
 
-
-#### 🚚 Delivery
-
+## 🚚 Delivery
 
 <table>
   <tr>
@@ -202,9 +198,7 @@
   </tr>
 </table>
 
-
-#### ▶️ Leadership
-
+## ▶️ Leadership
 
 <table>
   <tr>
@@ -271,9 +265,7 @@
   </tr>
 </table>
 
-
-#### 💷 Costs Managements
-
+## 💷 Costs Managements
 
 <table>
   <tr>

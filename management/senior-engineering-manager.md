@@ -1,8 +1,6 @@
+# Senior Engineering Manager
 
-### Senior Engineering Manager
-
-#### 👩‍👨 People
-
+## 👩‍👨 People
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -76,8 +74,7 @@
   </tr>
 </table>
 
-#### 🚚 Delivery
-
+## 🚚 Delivery
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -139,9 +136,7 @@
   </tr>
 </table>
 
-
-#### ▶️ Leadership
-
+## ▶️ Leadership
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -215,10 +210,9 @@
       </ul>
     </td>
   </tr>
-</table> 
+</table>
 
-
-#### 💷 Costs Managements
+## 💷 Costs Managements
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>

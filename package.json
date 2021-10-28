@@ -1,0 +1,17 @@
+{
+  "name": "transparency-consent-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guardian/transparency_and_consent_docs.git",
+  "author": "Robert Kenny <robert.kenny@guardian.co.uk>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint-ci": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "lint": "markdownlint-cli2-fix \"**/*.md\" \"#node_modules\""
+  },
+  "devDependencies": {
+    "markdownlint": "^0.24.0",
+    "markdownlint-cli2": "^0.3.2"
+  }
+}

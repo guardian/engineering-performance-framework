@@ -1,0 +1,8 @@
+{
+  // Disable some built-in rules
+  "config": {
+    "line_length": false,
+    "no-inline-html": false,
+    "no-duplicate-heading": false
+  }
+}

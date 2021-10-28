@@ -1,8 +1,6 @@
+# Associate Engineering Manager
 
-### Associate Engineering Manager
-
-#### 👩‍👨 People
-
+## 👩‍👨 People
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -25,7 +23,7 @@
         <li>Engineering management team initiatives</li>
         <ul><li>Participate actively departmental initiatives led by another manager </li></ul>
         <li>Performance calibrations</li>
-        <ul><li>Read feedback for some non line managed individuals</li></ul> 
+        <ul><li>Read feedback for some non line managed individuals</li></ul>
         <li>Promotions and In-band payrise</li>
         <ul><li>Read submissions for non line managed individuals</li></ul>
       </ul>
@@ -41,7 +39,7 @@
   </tr>
 </table>
 
-#### 🚚 Delivery
+## 🚚 Delivery
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -97,8 +95,7 @@
   </tr>
 </table>
 
-#### ▶️ Leadership
-
+### ▶️ Leadership
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -116,7 +113,7 @@
     </td>
     <td>
       <ul>
-        <li> Team </li> 
+        <li> Team </li>
         <ul>
           <li> Communicate progress and achievements to the department </li>
           <li> Recognise outstanding works from individuals within team </li>
@@ -128,8 +125,7 @@
   </tr>
 </table>
 
-#### 💷 Costs Managements
-
+## 💷 Costs Managements
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -144,9 +140,9 @@
   </ul>
         <li> Operating costs </li>
  <ul>
-  <li> Understand details of costs structure </li> 
-  <li> Participate in costs reduction initiatives </li> 
- </ul>       
+  <li> Understand details of costs structure </li>
+  <li> Participate in costs reduction initiatives </li>
+ </ul>
       </ul>
     </td>
     <td>

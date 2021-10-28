@@ -4,38 +4,40 @@ This is the framework we use to assess the performance of engineers every 6
 months. Much like the software we write, this framework will never be perfect or finished.
 
 For each role it is split into the same 4 categories:
+
 * 👩‍👨 People
 * 🚚 Delivery
 * 💡 Innovation
 * ✨ Initiative & Influence.
 
-#### Score
+## Score
 
 During a performance asssement, each category is scored on a `1-3` scale:
- * `1`: Not consistently meeting requirements of `Level 2`.
- * `2`: Consistently meeting requirements of `Level 2`
- * `3`: Consistently meeting requirements of `Level 3`
 
-#### Roles
+* `1`: Not consistently meeting requirements of `Level 2`.
+* `2`: Consistently meeting requirements of `Level 2`
+* `3`: Consistently meeting requirements of `Level 3`
+
+## Roles
 
 * [Associate Developer](#associate-developer)
 * [Software Developer](#software-developer)
 * [Senior Developer](#senior-developer)
 * [Staff Developer](#staff-developer)
 
-
 * [Associate Engineering Manager](./management/associate-engineering-manager.md)
 * [Engineering Manager](./management/engineering-manager.md)
 * [Senior Engineering Manager](./management/senior-engineering-manager.md)
 
-#### Salary bands
+## Salary bands
+
 [Salary bands for each role](./salary-bands.md)
 
 ---
 
-### Associate Developer
+## Associate Developer
 
-#### 👩‍👨 People
+### 👩‍👨 People
 
 <table>
   <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
@@ -55,7 +57,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 🚚 Delivery
+### 🚚 Delivery
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -79,7 +81,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 💡 Innovation
+### 💡 Innovation
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -98,7 +100,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### ✨ Initiative and Influence
+### ✨ Initiative and Influence
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -122,12 +124,11 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-
 ---
 
-### Software Developer
+## Software Developer
 
-#### 👩‍👨 People
+### 👩‍👨 People
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -150,7 +151,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 🚚 Delivery
+### 🚚 Delivery
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -177,7 +178,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 💡 Innovation
+### 💡 Innovation
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -195,7 +196,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### ✨ Initiative and Influence
+### ✨ Initiative and Influence
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -223,9 +224,9 @@ During a performance asssement, each category is scored on a `1-3` scale:
 
 ---
 
-### Senior Developer
+## Senior Developer
 
-#### 👩‍👨 People
+### 👩‍👨 People
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -249,7 +250,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 🚚 Delivery
+### 🚚 Delivery
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -277,7 +278,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 💡 Innovation
+### 💡 Innovation
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -297,7 +298,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### ✨ Initiative and Influence
+### ✨ Initiative and Influence
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -325,9 +326,9 @@ During a performance asssement, each category is scored on a `1-3` scale:
 
 ---
 
-### Staff Developer
+## Staff Developer
 
-#### 👩‍👨 People
+### 👩‍👨 People
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -348,7 +349,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 🚚 Delivery
+### 🚚 Delivery
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -381,7 +382,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-#### 💡 Innovation
+### 💡 Innovation
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
@@ -399,8 +400,7 @@ During a performance asssement, each category is scored on a `1-3` scale:
   </tr>
 </table>
 
-
-#### ✨ Initiative and Influence
+### ✨ Initiative and Influence
 
 <table>
   <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
