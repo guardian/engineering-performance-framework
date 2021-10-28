@@ -18,15 +18,20 @@ During a performance asssement, each category is scored on a `1-3` scale:
 
 #### Roles
 
+##### Individual Contributor
+
 * [Associate Developer](#associate-developer)
 * [Software Developer](#software-developer)
 * [Senior Developer](#senior-developer)
 * [Staff Developer](#staff-developer)
 
+##### Engineering Management
 
 * [Associate Engineering Manager](./management/associate-engineering-manager.md)
 * [Engineering Manager](./management/engineering-manager.md)
 * [Senior Engineering Manager](./management/senior-engineering-manager.md)
+
+See the following [Indeed.com article for the difference between an "Individual Contributor" & "Engineering Management"](https://www.indeed.com/career-advice/finding-a-job/what-is-an-individual-contributor).
 
 #### Salary bands
 [Salary bands for each role](./salary-bands.md)
