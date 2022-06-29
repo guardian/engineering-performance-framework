@@ -9,12 +9,9 @@ For each role it is split into the same 4 categories:
 * 💡 Innovation
 * ✨ Initiative & Influence.
 
-#### Score
+#### Review
 
-During a performance asssement, each category is scored on a `1-3` scale:
- * `1`: Not consistently meeting requirements of `Core Criteria`.
- * `2`: Consistently meeting requirements of `Core Criteria`
- * `3`: Consistently meeting requirements of `Growth Criteria`
+During a performance review, each criteria within each category will be assessed  as 'met' or 'not-met':
 
 #### Roles
 
