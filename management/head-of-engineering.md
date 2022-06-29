@@ -1,5 +1,5 @@
 
-### Senior Engineering Manager
+### Head of Engineering
 
 #### 👩‍👨 People
 
