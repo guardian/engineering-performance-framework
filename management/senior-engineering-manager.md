@@ -27,7 +27,7 @@
         </ul>
         <li>Engineering management team</li>
         <ul>
-        <li>Lead departemental initiatives</li>
+        <li>Lead departmental initiatives</li>
         <li>Participate actively in management meetings</li>
         </ul>
         <li>Performance calibrations</li>
@@ -35,14 +35,14 @@
         <li>Read and share feedback for a significant number of non line managed individual contributors</li>
         <li>Read and share feedback for non senior managers</li>
         </ul>
-        <li>Promotion & in-band payrise</li>
+        <li>Promotion & in-band pay rise</li>
         <ul>
         <li>Read and share feedback for non line managed individuals</li>
         <li>Suggest strategy for best allocation of budget every round</li>
         </ul>
         <li>Rotation</li>
         <ul>
-        <li>Actively look for opportunities in the coming quaters for managed individuals</li>
+        <li>Actively look for opportunities in the coming quarters for managed individuals</li>
         <li>Helping fill opportunities for other managers for the wider benefit of teams and the department</li>
         </ul>
         <li>Hiring & Handling resignation </li>
@@ -57,7 +57,7 @@
         <li>Engineering management team</li>
         <ul>
         <li>Champion other people impactful ideas</li>
-        <li>Achieve significany management practices improvement through leading an initiative</li>
+        <li>Achieve significant management practices improvement through leading an initiative</li>
         </ul>
         <li>Performance calibrations</li>
         <ul>
@@ -103,7 +103,7 @@
         </ul>
         <li>Health</li>
         <ul>
-        <li>Participate in definining key metrics for systems owned by team</li>
+        <li>Participate in defining key metrics for systems owned by team</li>
         <li>Ensure team monitors key metrics for systems owned by team</li>
         <li>Evaluate and decide time to spend on health each quarter</li>
         <li>Demonstrate improvements on specific key metrics</li>
@@ -114,7 +114,7 @@
         <li>Continue to write code at least once a month and release features but avoid being in the critical path</li>
         <li>Regularly review significant team PRs</li>
         <li>Accountable for the architecture of the systems owned by the stream</li>
-        <li>Delegate architecture reponsibility when appropriate of the systems owned by the stream</li>
+        <li>Delegate architecture responsibility when appropriate of the systems owned by the stream</li>
         </ul>
         <li>Context awareness</li>
         <ul>
@@ -152,7 +152,7 @@
         <ul>
         <li>Communicate progress and achievements to the department</li>
         <li>Recognise outstanding works from individuals within team</li>
-        <li>Ensure there is, but don't orgnanise, demo of team work</li>
+        <li>Ensure there is, but don't organise, demo of team work</li>
         <li>Ensures that all members of their team have a clear grasp of the KR for their products and that they are focused on improving them</li>
         </ul>
         <li>Teams</li>
@@ -161,7 +161,7 @@
         </ul>
         <li>Stakeholders</li>
         <ul>
-        <li> Communicate technical challenges and opporrtunities in the domain area of their team in a clear way to stakeholders</li>
+        <li> Communicate technical challenges and opportunities in the domain area of their team in a clear way to stakeholders</li>
         <li>Lead resolution of complex issues through high-level relevant interaction with senior stakeholders</li>
         <li>Make an active effort to build relationships, trust and influence with key stakeholders</li>
         </ul>
@@ -182,7 +182,7 @@
         <li>Encourage clear and readable code, organised in way that divides implementation in independant units of work</li>
         <li>Promote a change that reduce size of code base</li>
         </ul>
-        <li>Ablity to operate at multiple levels</li>
+        <li>Ability to operate at multiple levels</li>
         <ul>
         <li>Stay connected to the details and is able to participate in technical discussion about issues</li>
         <li>Challenge tech leaders about reasonings and data behind technical decisions</li>
@@ -190,7 +190,7 @@
         </ul>
         <li>Vendors relationship</li>
         <ul>
-        <li>Responsibile for the relationship with a key vendor</li>
+        <li>Responsible for the relationship with a key vendor</li>
         </ul>
       </ul>
     </td>
@@ -235,7 +235,7 @@
        <ul>
         <li>Ensure costs remain within allocated budget</li>
         <li>Ensure cost-efficiency of existing and news projects</li>
-        <li>Evaluate costs of new projects providing recommendations for costs-efficiceny and trade-offs</li>
+        <li>Evaluate costs of new projects providing recommendations for costs-efficiency and trade-offs</li>
         <li>Accountable for operating costs of their Stream</li>
       </ul>
       </ul>
