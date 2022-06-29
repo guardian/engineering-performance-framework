@@ -5,7 +5,7 @@
 
 
 <table>
-  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th with="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -80,7 +80,7 @@
 
 
 <table>
-  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th with="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -144,7 +144,7 @@
 
 
 <table>
-  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th with="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -221,7 +221,7 @@
 #### 💷 Costs Managements
 
 <table>
-  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th with="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>

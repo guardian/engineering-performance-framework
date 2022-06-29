@@ -12,9 +12,9 @@ For each role it is split into the same 4 categories:
 #### Score
 
 During a performance asssement, each category is scored on a `1-3` scale:
- * `1`: Not consistently meeting requirements of `Level 2`.
- * `2`: Consistently meeting requirements of `Level 2`
- * `3`: Consistently meeting requirements of `Level 3`
+ * `1`: Not consistently meeting requirements of `Core Criteria`.
+ * `2`: Consistently meeting requirements of `Core Criteria`
+ * `3`: Consistently meeting requirements of `Growth Criteria`
 
 #### Roles
 
@@ -24,12 +24,15 @@ During a performance asssement, each category is scored on a `1-3` scale:
 * [Software Developer](#software-developer)
 * [Senior Developer](#senior-developer)
 * [Staff Developer](#staff-developer)
+* [Principal Developer](#principal-developer)
 
 ##### Engineering Management
 
 * [Associate Engineering Manager](./management/associate-engineering-manager.md)
 * [Engineering Manager](./management/engineering-manager.md)
 * [Senior Engineering Manager](./management/senior-engineering-manager.md)
+* [Head of Engineering](./management/head-of-engineering.md)
+
 
 See the following [Indeed.com article for the difference between an "Individual Contributor" & "Engineering Management"](https://www.indeed.com/career-advice/finding-a-job/what-is-an-individual-contributor).
 
@@ -43,7 +46,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 👩‍👨 People
 
 <table>
-  <tr> <th width="50%"> Level 2 </th><th with="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th with="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -63,7 +66,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 🚚 Delivery
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -87,7 +90,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 💡 Innovation
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -106,7 +109,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### ✨ Initiative and Influence
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -135,7 +138,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 👩‍👨 People
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -158,7 +161,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 🚚 Delivery
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -185,7 +188,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 💡 Innovation
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -203,7 +206,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### ✨ Initiative and Influence
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -233,7 +236,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 👩‍👨 People
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -257,7 +260,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 🚚 Delivery
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -285,7 +288,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 💡 Innovation
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -305,7 +308,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### ✨ Initiative and Influence
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -335,7 +338,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 👩‍👨 People
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -356,7 +359,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 🚚 Delivery
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -389,7 +392,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### 💡 Innovation
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -408,7 +411,7 @@ See the following [Indeed.com article for the difference between an "Individual 
 #### ✨ Initiative and Influence
 
 <table>
-  <tr> <th width="50%">Level 2</th><th width="50%"> Level 3</th></tr>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
   <tr>
     <td>
       <ul>
@@ -425,6 +428,82 @@ See the following [Indeed.com article for the difference between an "Individual 
         <li>Presents at conferences or hosts external meet-ups that champion Guardian Digital solutions, culture and values. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Principal Developer
+
+#### 👩‍👨 People
+
+<table>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 🚚 Delivery
+
+<table>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 💡 Innovation
+
+<table>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### ✨ Initiative and Influence
+
+<table>
+  <tr> <th width="50%">Core Criteria</th><th width="50%">Growth Criteria</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>TODO</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TODO</li>
       </ul>
     </td>
   </tr>
