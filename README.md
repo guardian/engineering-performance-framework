@@ -139,7 +139,7 @@ See the following [Indeed.com article for the difference between an "Individual 
   <tr>
     <td>
       <ul>
-        <li>Each quarter provides some mentoring or guidance to colleagues (e.g. mentoring, constructive PR reviews or discussing approaches online or offline).</li>
+        <li>Each quarter provides some mentoring or guidance to colleagues (e.g. mentoring, onboarding, constructive PR reviews or discussing approaches online or offline).  This should not simply be contributing an opinion on a technical approach, but taking the time to introduce or improve someone’s understanding of a topic in a supportive and encouraging way. </li>
         <li>Always willing to help others.</li>
         <li>Demonstrates inclusive behaviours as part of their everyday work.</li>
       </ul>
