@@ -35,7 +35,7 @@
         <li>Engineering management team</li>
         <ul>
           <li>
-            Participate actively in led by other departemental initiatives
+            Participate actively in other departmental initiatives
           </li>
           <li>Participate actively in management meetings</li>
         </ul>
