@@ -321,7 +321,7 @@ See the following [Indeed.com article for the difference between an "Individual 
       <ul>
         <li>Demonstrably moves the team’s key result scores as a result of the work they undertake. </li>
         <li>Demonstrates how the team can learn and improve from failures.</li>
-        <li>Always ensures plans and outcomes are well communicated to stakeholders and the wider business as appropriate (e.g. presents at Huddle Round Ups.)</li>
+        <li>Always ensures plans and outcomes are well communicated to stakeholders and the wider business as appropriate.</li>
         <li>Leads work with other teams to solve cross-team challenges. Understands concerns of other teams and works to balance delivery across boundaries in order to deliver the best outcome overall.</li>
       </ul>
     </td>
