@@ -422,7 +422,7 @@ See the following [Indeed.com article for the difference between an "Individual 
     <td>
       <ul>
         <li>Demonstrates how the department can manage failure, fail fast, and learn and improve from such failures. </li>
-        <li>Presents at conferences or hosts external meet-ups that champion Guardian Digital solutions, culture and values. </li>
+        <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
       </ul>
