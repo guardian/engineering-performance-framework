@@ -167,7 +167,7 @@ See the following [Indeed.com article for the difference between an "Individual 
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
         <li>Only occasionally requires supportfrom peers depending on the task, technology and prior experience.</li>
         <li>Regularly reviews team PRs.</li>
-        <li>Attempts to unblock themselves first before seeking help.</li>
+        <li>Recognises when they’re near their limit and reaches out for help from others.</li>
       </ul>
     </td>
     <td>
