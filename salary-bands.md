@@ -27,9 +27,9 @@ Our salary bands are public and can be seen below.
 
 * **Engineering Management**
 
-    *  Associate: `£65k - £75k` 
-    *  Manager: `£75k - £85k` 
-    *  Senior: `£85k - £96k`
+    *  Associate: `£75k - £90k` 
+    *  Manager: `£100k - £110k` 
+    *  Senior: `£110k - £120k`
     *  Head of: `£120k`
 
 
