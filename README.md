@@ -443,14 +443,9 @@ See the following [Indeed.com article for the difference between an "Individual 
     <td>
       <ul>
         <li>Works with other Principal Engineers across the department to ensure their individual stream strategies align, and that common issues are resolved department wide and not stream-by-stream.</li>
-         <li>Shares knowledge across the department through technical presentations, writes articles, pairs with more junior colleagues, and other appropriate mechanisms.</li>
-        <li>Helps to investigate complex technical issues and providing guidance for more junior developers when dealing with an incident.</li>
-        <li>Mentors Tech Leads and providing guidance on subject architectural choices review and prioritisation of tech-debt.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>TODO</li>
+        <li>Shares knowledge across the department through technical presentations, writes articles, pairs with more junior colleagues, and other appropriate mechanisms.</li>
+        <li>Helps to investigate complex technical issues and provides guidance for more junior developers when dealing with an incident.</li>
+        <li>Mentors Tech Leads and provides guidance on subject architectural choices review and prioritisation of technical debt.</li>
       </ul>
     </td>
   </tr>
@@ -463,11 +458,10 @@ See the following [Indeed.com article for the difference between an "Individual 
   <tr>
     <td>
       <ul>
-        <li>Provides technical guidance and oversight to the multiple development teams in your stream. </li>
+        <li>Provides technical guidance and oversight to the multiple development teams in your stream.</li>
         <li>Ensures sound technical architecture with technologies interoperating or connecting well to each other, enabling scale and flexibility to the business. </li>
-        <li>Fixes some issues when your help is requested or you see an organisational or technical value in resolving the problem. </li>
-        <li>
-        Helps define and review stream teams’ Service Levels Objectives (SLO), contributing to streams teams’ backlog prioritisation strategies to match them. </li>
+        <li>Fixes some issues when your help is requested or you see an organisational or technical value in resolving the problem.</li>
+        <li>Helps define and review stream teams’ Service Levels Objectives (SLO), contributing to streams teams’ backlog prioritisation strategies to match them.</li>
         <li>Leads evaluation of new technologies and vendors, establishing key technical criterias for assessment, performing some of the technical assessments, and summarising clearly the benefits and drawbacks.</li>
       </ul>
     </td>
@@ -482,7 +476,7 @@ See the following [Indeed.com article for the difference between an "Individual 
     <td>
       <ul>
         <li>Participates actively in the engineering culture of the department through encouraging technical innovation adoption and modelling the behaviours laid out in it.</li>
-        <li>Encourages early adoption of relevant new technologies</li>
+        <li>Encourages early adoption of relevant new technologies.</li>
       </ul>
   </tr>
 </table>
@@ -494,14 +488,11 @@ See the following [Indeed.com article for the difference between an "Individual 
   <tr>
     <td>
       <ul>
-        <li>Attends key meetings with Stakeholders and provide detailed technical views on the subject being discussed. </li>
+        <li>Attends key meetings with Stakeholders and provide detailed technical views on the subject being discussed.</li>
         <li>Advises on technical challenges and opportunities in conversations with Product Managers, sponsors and senior stakeholders.</li>
-        <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.
-        </li>
+        <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
-        <li>
-        Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence. 
-        </li>
+        <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
       </ul>
     </td>
   </tr>
