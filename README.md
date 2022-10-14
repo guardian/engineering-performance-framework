@@ -165,9 +165,9 @@ See the following [Indeed.com article for the difference between an "Individual 
         <li>Breaks down large problems into deliverable tasks.</li>
         <li>Delivers incremental changes frequently, reliably and with consistently good quality (e.g readable code which adheres to team standards).</li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Requires occasional support from peers depending on the task, technology and prior experience.</li>
+        <li>Only occasionally requires support from peers depending on the task, technology and prior experience.</li>
         <li>Regularly reviews team PRs.</li>
-        <li>Attempts to unblock themselves first before seeking help.</li>
+        <li>Recognises when they’re near their limit and reaches out for help from others.</li>
       </ul>
     </td>
     <td>
