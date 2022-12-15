@@ -9,9 +9,17 @@ For each role it is split into the same 4 categories:
 * 💡 Innovation
 * ✨ Initiative & Influence.
 
-#### Review
+Where the progression framework sets out high level expectations for a role, which may not be achievable every quarter,
+the performance framework details everyday behaviours:
+  - Criteria labeled "Core", we believe, contribute most to the department, and the expectation is that you consistently meet them 
+  - Criteria labeled "Growth", we believe, are behaviours which contribute towards you growing and developing within your role
 
-During a performance review, each criteria within each category will be assessed  as 'met' or 'not-met':
+#### Review
+Every 6 months, at the end of Q1 and Q4, you and your manager will review your performance over the last 2 quarters using this framework.
+
+During a performance review, each criteria within each category will be assessed as 'met' or 'not-met':
+
+Taking an active role in your performance gives you the best chance of receiving a fair assessment and of getting the most out of your manager as they support your growth.
 
 #### Roles
 
@@ -35,6 +43,8 @@ See the following [Indeed.com article for the difference between an "Individual 
 
 #### Salary bands
 [Salary bands for each role](./salary-bands.md)
+
+Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhLFCELD9GS6aU1JaJRNG5tliEMlQVoX8bGE/edit).
 
 ---
 
