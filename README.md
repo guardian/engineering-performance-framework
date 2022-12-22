@@ -15,7 +15,7 @@ the performance framework details everyday behaviours:
   - Criteria labeled "Growth", we believe, are behaviours which contribute towards you growing and developing within your role
 
 #### Review
-Every 6 months, at the end of Q1 and Q4, you and your manager will review your performance over the last 2 quarters using this framework.
+Every 6 months, at the end of Q1 and Q3, you and your manager will review your performance over the last 2 quarters using this framework.
 
 During a performance review, each criteria within each category will be assessed as 'met' or 'not-met':
 
