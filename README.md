@@ -199,12 +199,14 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Critically evaluates innovative concepts and ideas presented by others. Suggests and helps to implement process improvements and engineering best practice.</li>
+        <li>Critically evaluates innovative concepts and ideas presented by others.</li>
+        <li>Suggests and helps to implement process improvements and engineering best practice.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. Keeps up to date with evolving best practice in their field.</li>
+        <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. </li>
+        <li>Keeps up to date with evolving best practice in their field.</li>
       </ul>
     </td>
   </tr>
