@@ -81,6 +81,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Takes on bigger pieces of work with support.</li>
         <li>Takes on PR feedback and improves their work.</li>
         <li>Seeks advice from more senior engineers when they are blocked.</li>
+        <li>Shows awareness of data privacy or security concerns where relevant.</li>
       </ul>
     </td>
     <td>
@@ -108,6 +109,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.</li>
         <li>Actively exploring new approaches in their own work.</li>
+        <li>Uses relevant data or metrics as an input to solutions.</li>
       </ul>
     </td>
   </tr>
@@ -184,7 +186,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Identifies problems to solve and engages the team in scoping and prioritising their delivery.</li>
         <li>Demonstrates an understanding of external schedule constraints and calls out potential issues during estimation</li>
-        <li>Evaluates multiple options to solve technical problems and is trusted by the team to implement their recommended solution.</li>
+        <li>Evaluates multiple options to solve technical problems using data where relevant, and is trusted by the team to implement their recommended solution.</li>
         <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs in projects where they have less context (e.g. outside their immediate team or dormant projects) with the same consideration.</li>
         <li>Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.</li>
       </ul>
@@ -207,6 +209,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. </li>
         <li>Keeps up to date with evolving best practice in their field.</li>
+        <li>Works with Product and Engineering Managers to ensure most useful product data is gathered and available for decision making.</li>
       </ul>
     </td>
   </tr>
@@ -233,6 +236,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Regularly demos their work to the team, stream or stakeholders, and contextualises the impact of that work. </li>
         <li>Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records). </li>
         <li>Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.</li>
+        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments</li>
       </ul>
     </td>
   </tr>
