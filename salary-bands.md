@@ -2,11 +2,11 @@ Our salary bands are public and can be seen below.
 
 * **Individual Contributor**
 
-    *  Associate Developer: `£36.2k - £49.6k` 
-    *  Developer: `£49.6k - £65.2k` 
-    *  Senior Developer: `£65.2k - £77.6k`
-    *  Staff Developer: `£77.6k - £88k`
-    *  Principal Developer: `£100k`  
+    *  Associate Developer: `£40k - £55k` 
+    *  Developer: `£55k - £70k` 
+    *  Senior Developer: `£70k - £85k`
+    *  Staff Developer: `£85k - £100k`
+    *  Principal Developer: `£100k` 
 
 
 * **Individual Contributor** — Apps Engineering: iOS, Android, and cross-platform apps software developers
