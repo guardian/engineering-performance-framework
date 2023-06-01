@@ -228,6 +228,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Provides input into architectural design choices. </li>
         <li>Regularly demos their work to the stream. </li>
         <li>Encourages their colleagues to do their best work.</li>
+        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments</li>
       </ul>
     </td>
     <td>
@@ -236,7 +237,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Regularly demos their work to the team, stream or stakeholders, and contextualises the impact of that work. </li>
         <li>Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records). </li>
         <li>Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.</li>
-        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments</li>
       </ul>
     </td>
   </tr>
@@ -279,15 +279,17 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Delivers reliably and with consistently good quality code (e.g. well tested and readable) which defines team standards.</li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches.</li>
+        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches, using relevant data and metrics where approriate.</li>
         <li>Demonstrates understanding that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
         <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
         <li>Regularly takes on more difficult tasks which require input from various teams or disciplines.</li>
+        <li>Intelligently uses data and metrics to make informed decisions.</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Plays a leading role in planning technical strategy for the team, or shaping the team’s delivery plans.</li>
+        <li>Informed by other disciplines, champions collecting the right data and metrics for each product.</li>
         <li>Makes their team successful in meeting their objectives and key results.</li>
         <li>Balances risks to ensure team delivery.</li>
         <li>Monitors system and delivery pipeline health to ensure quality of service and team productivity.</li>
@@ -306,6 +308,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
     <td>
       <ul>
         <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
+        <li>Uses data and metrics to identify and propose improvements and new technologies.</li>
       </ul>
     </td>
     <td>
@@ -313,6 +316,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads by example to promote and encourage a culture of continuous improvement within their team.</li>
         <li>Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.</li>
         <li>Ensures that all members of the team are brought on board with new solutions, processes and technologies.</li>
+        <li>Works with Product, UX and other relevant disciplines to identify potential new opportunities for the business based on data.</li>
       </ul>
     </td>
   </tr>
@@ -376,7 +380,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Plays a strategic role in the stream’s technical decision making.</li>
+        <li>Plays a strategic role in the stream’s technical decision making through data-driven decision-making whenever possible.</li>
         <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
         <li>Provides feedback on important PRs and team’s solution design sessions.</li>
         <li>Fosters a culture of continuous improvement and high delivery momentum across the stream.</li>
@@ -386,6 +390,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Committed to meeting their team’s objective and key results.</li>
         <li>Helps to unblock obstacles and supports the team in delivering its goals.  </li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
+        <li>Takes responsibility for ensuring collection of the best data and metrics for their products.</li>
       </ul>
     </td>
     <td>
@@ -441,6 +446,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
+        <li>Is abile to make sense of data and communicate it as easy-to-understand stories that help inspire insights to become actions.</li>
       </ul>
     </td>
   </tr>
@@ -509,6 +515,8 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
+        <li>Is abile to make sense of data and communicate it as easy-to-understand stories that help inspire insights to become actions.</li>
+        <li>Is able to effectively work with Product and other disciplines to communicate data insights using narratives, and where appropriate visualizations, to put data insights into context and inspire action from, and give direction to, colleages and stakeholders across the business.</li>
       </ul>
     </td>
   </tr>
