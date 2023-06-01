@@ -515,7 +515,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
-        <li>Is abile to make sense of data and communicate it as easy-to-understand stories that help inspire insights to become actions.</li>
         <li>Is able to effectively work with Product and other disciplines to communicate data insights using narratives, and where appropriate visualizations, to put data insights into context and inspire action from, and give direction to, colleages and stakeholders across the business.</li>
       </ul>
     </td>
