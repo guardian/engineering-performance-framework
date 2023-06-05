@@ -446,7 +446,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
-        <li>Is abile to make sense of data and communicate it as easy-to-understand stories that help inspire insights to become actions.</li>
+        <li>Is able to make sense of data and present it in easy-to-understand and inspiring formats</li>
       </ul>
     </td>
   </tr>
