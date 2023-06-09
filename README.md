@@ -203,13 +203,13 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Critically evaluates innovative concepts and ideas presented by others.</li>
         <li>Suggests and helps to implement process improvements and engineering best practice.</li>
+        <li>Works with Product and others to ensure the most useful product data is gathered and available for decision making.†</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. </li>
         <li>Keeps up to date with evolving best practice in their field.</li>
-        <li>Works with Product and Engineering Managers to ensure most useful product data is gathered and available for decision making.†</li>
       </ul>
     </td>
   </tr>
@@ -283,7 +283,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Demonstrates understanding that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
         <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
         <li>Regularly takes on more difficult tasks which require input from various teams or disciplines.</li>
-        <li>Intelligently uses data and metrics to make informed decisions.†</li>
       </ul>
     </td>
     <td>
@@ -308,7 +307,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
     <td>
       <ul>
         <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
-        <li>Uses data and metrics to identify and propose improvements and new technologies.</li>
+        <li>Works with Product and Engineering Managers to ensure the most useful product data is gathered and available for decision making.†</li>
       </ul>
     </td>
     <td>
@@ -316,7 +315,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads by example to promote and encourage a culture of continuous improvement within their team.</li>
         <li>Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.</li>
         <li>Ensures that all members of the team are brought on board with new solutions, processes and technologies.</li>
-        <li>Works with Product, UX and other relevant disciplines to identify potential new opportunities for the business based on data.†</li>
       </ul>
     </td>
   </tr>
@@ -380,7 +378,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Plays a strategic role in the stream’s technical decision making through data-driven decision-making whenever possible†.</li>
+        <li>Plays a strategic role in the stream’s technical decision making through data-informed decision-making whenever possible†.</li>
         <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
         <li>Provides feedback on important PRs and team’s solution design sessions.</li>
         <li>Fosters a culture of continuous improvement and high delivery momentum across the stream.</li>
@@ -390,7 +388,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Committed to meeting their team’s objective and key results.</li>
         <li>Helps to unblock obstacles and supports the team in delivering its goals.  </li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Takes responsibility for ensuring collection of the best data and metrics for their products.†</li>
+        <li>Ensures collection of relevant and high-quality data for their products, and that this data is used for impactful metrics or key results.†</li>
       </ul>
     </td>
     <td>
@@ -446,7 +444,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
-        <li>Is able to make sense of data and present it in easy-to-understand and inspiring formats.†</li>
+        <li>Demonstrates deep understanding and engagement with engineering or product data.†</li>
       </ul>
     </td>
   </tr>
@@ -515,7 +513,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
-        <li>Is able to effectively work with Product and other disciplines to communicate data insights using narratives, and where appropriate visualizations, to put data insights into context and inspire action from, and give direction to, colleages and stakeholders across the business.†</li>
+        <li>Works with Product Managers and others to effectively communicate data-informed insights which inspire action from colleagues and stakeholders.†</li>
       </ul>
     </td>
   </tr>
