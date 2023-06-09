@@ -81,7 +81,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Takes on bigger pieces of work with support.</li>
         <li>Takes on PR feedback and improves their work.</li>
         <li>Seeks advice from more senior engineers when they are blocked.</li>
-        <li>Shows awareness of data privacy or security concerns where relevant.</li>
+        <li>Shows awareness of data privacy or security concerns where relevant.†</li>
       </ul>
     </td>
     <td>
@@ -109,7 +109,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.</li>
         <li>Actively exploring new approaches in their own work.</li>
-        <li>Uses relevant data or metrics as an input to solutions.</li>
+        <li>Uses relevant data or metrics as an input to solutions.†</li>
       </ul>
     </td>
   </tr>
@@ -186,7 +186,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Identifies problems to solve and engages the team in scoping and prioritising their delivery.</li>
         <li>Demonstrates an understanding of external schedule constraints and calls out potential issues during estimation</li>
-        <li>Evaluates multiple options to solve technical problems using data where relevant, and is trusted by the team to implement their recommended solution.</li>
+        <li>Evaluates multiple options to solve technical problems using data where relevant†, and is trusted by the team to implement their recommended solution.</li>
         <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs in projects where they have less context (e.g. outside their immediate team or dormant projects) with the same consideration.</li>
         <li>Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.</li>
       </ul>
@@ -209,7 +209,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Regularly introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective. </li>
         <li>Keeps up to date with evolving best practice in their field.</li>
-        <li>Works with Product and Engineering Managers to ensure most useful product data is gathered and available for decision making.</li>
+        <li>Works with Product and Engineering Managers to ensure most useful product data is gathered and available for decision making.†</li>
       </ul>
     </td>
   </tr>
@@ -228,7 +228,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Provides input into architectural design choices. </li>
         <li>Regularly demos their work to the stream. </li>
         <li>Encourages their colleagues to do their best work.</li>
-        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments</li>
+        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments.†</li>
       </ul>
     </td>
     <td>
@@ -279,7 +279,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Delivers reliably and with consistently good quality code (e.g. well tested and readable) which defines team standards.</li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches, using relevant data and metrics where approriate.</li>
+        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches, using relevant data and metrics† where approriate.</li>
         <li>Demonstrates understanding that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
         <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
         <li>Regularly takes on more difficult tasks which require input from various teams or disciplines.</li>
@@ -316,7 +316,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads by example to promote and encourage a culture of continuous improvement within their team.</li>
         <li>Performs detailed R&D on new technologies and architecture patterns, and frames and shares the results accordingly.</li>
         <li>Ensures that all members of the team are brought on board with new solutions, processes and technologies.</li>
-        <li>Works with Product, UX and other relevant disciplines to identify potential new opportunities for the business based on data.</li>
+        <li>Works with Product, UX and other relevant disciplines to identify potential new opportunities for the business based on data.†</li>
       </ul>
     </td>
   </tr>
@@ -380,7 +380,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Plays a strategic role in the stream’s technical decision making through data-driven decision-making whenever possible.</li>
+        <li>Plays a strategic role in the stream’s technical decision making through data-driven decision-making whenever possible†.</li>
         <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
         <li>Provides feedback on important PRs and team’s solution design sessions.</li>
         <li>Fosters a culture of continuous improvement and high delivery momentum across the stream.</li>
@@ -515,8 +515,12 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
-        <li>Is able to effectively work with Product and other disciplines to communicate data insights using narratives, and where appropriate visualizations, to put data insights into context and inspire action from, and give direction to, colleages and stakeholders across the business.</li>
+        <li>Is able to effectively work with Product and other disciplines to communicate data insights using narratives, and where appropriate visualizations, to put data insights into context and inspire action from, and give direction to, colleages and stakeholders across the business.†</li>
       </ul>
     </td>
   </tr>
 </table>
+
+† - Criteria marked with the 'obelisk' icon are new changes (2023-June) that are optional until after the current review round.
+The Engineering Management team are reviewing the progression and promotion frameworks generally, including adding data-related responsibilities. However we believe it's unfair to make changes to the criteria shortly before a review round.
+For now - feel free to provide evidence towards them, or delete them.
