@@ -283,7 +283,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Demonstrates understanding that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
         <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
         <li>Regularly takes on more difficult tasks which require input from various teams or disciplines.</li>
-        <li>Intelligently uses data and metrics to make informed decisions.</li>
+        <li>Intelligently uses data and metrics to make informed decisions.†</li>
       </ul>
     </td>
     <td>
@@ -390,7 +390,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Committed to meeting their team’s objective and key results.</li>
         <li>Helps to unblock obstacles and supports the team in delivering its goals.  </li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Takes responsibility for ensuring collection of the best data and metrics for their products.</li>
+        <li>Takes responsibility for ensuring collection of the best data and metrics for their products.†</li>
       </ul>
     </td>
     <td>
@@ -446,7 +446,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
         <li>Enables software to be produced that can be used by, or benefits external communities.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
-        <li>Is able to make sense of data and present it in easy-to-understand and inspiring formats</li>
+        <li>Is able to make sense of data and present it in easy-to-understand and inspiring formats.†</li>
       </ul>
     </td>
   </tr>
