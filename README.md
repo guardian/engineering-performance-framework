@@ -521,5 +521,5 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
 </table>
 
 † - Criteria marked with the 'obelisk' icon are new changes (2023-June) that are optional until after the current review round.
-The Engineering Management team are reviewing the progression and promotion frameworks generally, including adding data-related responsibilities. However we believe it's unfair to make changes to the criteria shortly before a review round.
+The Engineering Management team are reviewing the progression and promotion frameworks generally, including adding data-related responsibilities. However we believe it's fair that changes to criteria are made and established well before a review round.
 For now - feel free to provide evidence towards them, or delete them.
