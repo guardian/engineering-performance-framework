@@ -378,7 +378,8 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Plays a strategic role in the stream’s technical decision making through data-informed decision-making whenever possible†.</li>
+        <li>Plays a strategic role in the stream’s technical decision making</li>
+        <li>Enhances the streams strategy through data-informed decision-making†.</li>
         <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
         <li>Provides feedback on important PRs and team’s solution design sessions.</li>
         <li>Fosters a culture of continuous improvement and high delivery momentum across the stream.</li>
