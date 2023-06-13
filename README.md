@@ -389,7 +389,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Committed to meeting their team’s objective and key results.</li>
         <li>Helps to unblock obstacles and supports the team in delivering its goals.  </li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Ensures collection of relevant and high-quality data for their products, and that this data is used for impactful metrics or key results.†</li>
+        <li>Ensures collection and utilisation of relevant and high-quality data for their products.†</li>
       </ul>
     </td>
     <td>
