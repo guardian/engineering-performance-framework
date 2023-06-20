@@ -203,7 +203,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Critically evaluates innovative concepts and ideas presented by others.</li>
         <li>Suggests and helps to implement process improvements and engineering best practice.</li>
-        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure the most useful product data is gathered and available for analysis & decision making.†</li>
+        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure relevant data is gathered and available for analysis & decision making.†</li>
       </ul>
     </td>
     <td>
@@ -307,7 +307,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
     <td>
       <ul>
         <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
-        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure useful data is gathered and available for decision making.†</li>
+        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure relevant data is gathered and available for analysis & decision making.†</li>
       </ul>
     </td>
     <td>
