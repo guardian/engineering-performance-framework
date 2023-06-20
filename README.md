@@ -109,7 +109,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Contributes ideas for solutions and process improvements in team discussions, and is able to build on the ideas of others.</li>
         <li>Actively exploring new approaches in their own work.</li>
-        <li>Uses relevant data or metrics as an input to solutions.†</li>
+        <li>Uses relevant data or metrics as an input to solutions when relevant.†</li>
       </ul>
     </td>
   </tr>
@@ -186,7 +186,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Identifies problems to solve and engages the team in scoping and prioritising their delivery.</li>
         <li>Demonstrates an understanding of external schedule constraints and calls out potential issues during estimation</li>
-        <li>Evaluates multiple options to solve technical problems using data where relevant†, and is trusted by the team to implement their recommended solution.</li>
+        <li>Evaluates multiple options to solve technical problems (using data where relevant†), and is trusted by the team to implement their recommended solution.</li>
         <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches). Occasionally reviews PRs in projects where they have less context (e.g. outside their immediate team or dormant projects) with the same consideration.</li>
         <li>Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.</li>
       </ul>
@@ -203,7 +203,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Critically evaluates innovative concepts and ideas presented by others.</li>
         <li>Suggests and helps to implement process improvements and engineering best practice.</li>
-        <li>Works with Product and others to ensure the most useful product data is gathered and available for decision making.†</li>
+        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure the most useful product data is gathered and available for analysis & decision making.†</li>
       </ul>
     </td>
     <td>
@@ -279,7 +279,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Delivers reliably and with consistently good quality code (e.g. well tested and readable) which defines team standards.</li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches, using relevant data and metrics† where approriate.</li>
+        <li>Regularly reviews team PRs providing helpful comments, constructive criticism or suggested alternative approaches (using relevant data and metrics where relevant†).</li>
         <li>Demonstrates understanding that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
         <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
         <li>Regularly takes on more difficult tasks which require input from various teams or disciplines.</li>
@@ -307,7 +307,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
     <td>
       <ul>
         <li>Identifies opportunities for their team to improve their processes or introduce new technologies, and follows through to ensure the intended benefit is realised.</li>
-        <li>Works with Product and Engineering Managers to ensure the most useful product data is gathered and available for decision making.†</li>
+        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to ensure useful data is gathered and available for decision making.†</li>
       </ul>
     </td>
     <td>
@@ -379,7 +379,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
     <td>
       <ul>
         <li>Plays a strategic role in the stream’s technical decision making</li>
-        <li>Enhances the streams strategy through data-informed decision-making†.</li>
+        <li>Enhances the strategy of the stream through data-informed decision-making†.</li>
         <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
         <li>Provides feedback on important PRs and team’s solution design sessions.</li>
         <li>Fosters a culture of continuous improvement and high delivery momentum across the stream.</li>
@@ -389,7 +389,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Committed to meeting their team’s objective and key results.</li>
         <li>Helps to unblock obstacles and supports the team in delivering its goals.  </li>
         <li>Takes responsibility of their code from local testing to supporting it in production.</li>
-        <li>Ensures collection and utilisation of relevant and high-quality data for their products.†</li>
+        <li>Ensures collection and utilisation of relevant and high-quality data for their products and systems.†</li>
       </ul>
     </td>
     <td>
@@ -514,7 +514,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
-        <li>Works with Product Managers and others to effectively communicate data-informed insights which inspire action from colleagues and stakeholders.†</li>
+        <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to effectively communicate data-informed insights which inspire action from colleagues and stakeholders.†</li>
       </ul>
     </td>
   </tr>
