@@ -197,6 +197,20 @@
             stakeholder issues
           </li>
         </ul>
+        <li>Data</li>
+        <ul>
+          <li>
+            Works with Product Managers, Engineers, and Data Analysts to 
+            ensure relevant data is gathered and available for monitoring, 
+            analysis & decision making
+          </li>
+        </ul>
+        <ul>
+          <li>
+            For data privacy and protection, understands relevant company
+            policy and ensures compliance for their systems.
+          </li>
+        </ul>
       </ul>
     </td>
   </tr>
@@ -247,6 +261,10 @@
         <ul>
           <li>Share technical opportunities with their manager</li>
           <li>Participate in defining OKR team with product manager</li>
+        </ul>
+       <li>Data</li>
+        <ul>
+          <li>Champions data-driven decision making for their products and systems where relevant</li>
         </ul>
       </ul>
     </td>

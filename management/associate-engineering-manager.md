@@ -92,6 +92,9 @@
         <ul><li>Demonstrate improvements on specific key metrics</li></ul>
         <li>Context awarness </li>
         <ul><li>Understands the capabilities of their team and communicates that clearly to stakeholders. </li></ul>
+        <li>Data </li>
+        <ul><li>Works with Product Managers, Engineers, and Data Analysts to ensure relevant data is gathered and available for monitoring, analysis & decision making. </li></ul>
+        <ul><li>For data privacy and protection, works to understand company policy and ensure compliance for their systems where relevant. </li></ul>
       </ul>
     </td>
   </tr>
