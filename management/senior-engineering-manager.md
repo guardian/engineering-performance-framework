@@ -134,6 +134,20 @@
         </ul>
         <li>Health</li>
         <ul><li>Suggest structural improvements that would benefit multiple teams</li></ul>
+        <li>Data</li>
+        <ul>
+          <li>
+            Works with Product Managers, Engineers, and Data Analysts to 
+            ensure relevant data is gathered and available for monitoring, 
+            analysis & decision making
+          </li>
+        </ul>
+        <ul>
+          <li>
+            For data privacy and protection, understands relevant company
+            policy and ensures compliance for their systems.
+          </li>
+        </ul>
       </ul>
     </td>
   </tr>
@@ -212,6 +226,10 @@
         <li>Discuss and advise relative importance of technology opportunities with Director of Engineering</li>
         <li>Influence and contribute to product strategy</li>
       </ul>
+      <li>Data</li>
+        <ul>
+          <li>Champions data-driven decision making for their products and systems where relevant</li>
+        </ul>
       </ul>
     </td>
   </tr>
