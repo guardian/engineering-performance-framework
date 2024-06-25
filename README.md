@@ -133,7 +133,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Gives useful feedback to their colleagues.</li>
         <li>Regularly seizes opportunities such as demos or sponsor meetings, to communicate what they have been working on.</li>
         <li>Makes data-backed suggestions on what the team should be doing next.</li>
-        <li>Takes opportunities to learn about wider department work through involvement in cross-team discussions. Represents the team occasionally but is likely to refer more complex issues to others.</li>
+        <li>Takes opportunities to learn about wider department work through involvement in cross-team discussions or groups such as Accessibility Champions. Represents the team occasionally but is likely to refer more complex issues to others.</li>
       </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Aligns what they are working on to their team’s goals. </li>
         <li>Regularly gives useful feedback to more senior colleagues. </li>
         <li>Seeks to fully understand the end goal of the tasks they pick up, and is mindful of this throughout the delivery lifecycle.</li>
-        <li>Provides input into architectural design choices. </li>
+        <li>Provides input into architectural design choices </li>
         <li>Regularly demos their work to the stream. </li>
         <li>Encourages their colleagues to do their best work.</li>
         <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments.†</li>
@@ -236,6 +236,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Regularly gives feedback to the team on improving their ways of working, and to team leads each quarter. Helps to implement some of  these improvements by being an advocate for them.</li>
         <li>Regularly demos their work to the team, stream or stakeholders, and contextualises the impact of that work. </li>
         <li>Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records). </li>
+        <li>Contributes towards maintaining code and product accessibility standards</li>
         <li>Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.</li>
       </ul>
     </td>
@@ -341,6 +342,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Demonstrates how the team can learn and improve from failures.</li>
         <li>Always ensures plans and outcomes are well communicated to stakeholders and the wider business as appropriate.</li>
         <li>Leads work with other teams to solve cross-team challenges. Understands concerns of other teams and works to balance delivery across boundaries in order to deliver the best outcome overall.</li>
+        <li>Is responsible for maintaining code and product accessibility standards</li>
       </ul>
     </td>
   </tr>
@@ -443,7 +445,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Demonstrates how the department can manage failure, fail fast, and learn and improve from such failures. </li>
         <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts. </li>
-        <li>Enables software to be produced that can be used by, or benefits external communities.</li>
+        <li>Enables software to be produced that can be used by, or benefits external communities and is widely accessible.</li>
         <li>Ensures we don’t encounter unmitigatable or unforeseen technical problems.</li>
         <li>Demonstrates deep understanding and engagement with engineering or product data.†</li>
       </ul>
@@ -511,7 +513,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
       <ul>
         <li>Attends key meetings with Stakeholders and provide detailed technical views on the subject being discussed.</li>
         <li>Advises on technical challenges and opportunities in conversations with Product Managers, sponsors and senior stakeholders.</li>
-        <li>Leads collaborative discussions around evolving best practices, defining our engineering standards.</li>
+        <li>Leads collaborative discussions around evolving best practices (such as accessibility standards), defining our engineering standards.</li>
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
         <li>Works with one or more of Product Managers / Engineering Managers / Data Analysts to effectively communicate data-informed insights which inspire action from colleagues and stakeholders.†</li>
