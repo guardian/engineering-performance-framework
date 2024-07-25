@@ -225,7 +225,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Aligns what they are working on to their team’s goals. </li>
         <li>Regularly gives useful feedback to more senior colleagues. </li>
         <li>Seeks to fully understand the end goal of the tasks they pick up, and is mindful of this throughout the delivery lifecycle.</li>
-        <li>Provides input into architectural design choices </li>
+        <li>Provides input into architectural design choices. </li>
         <li>Regularly demos their work to the stream. </li>
         <li>Encourages their colleagues to do their best work.</li>
         <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments.†</li>
