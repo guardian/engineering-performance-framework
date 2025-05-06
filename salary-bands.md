@@ -32,5 +32,10 @@ Our salary bands are public and can be seen below.
     *  Senior: `£112k - £122k`
     *  Head of: `£125k - £140k`
 
+* **User Help**
+
+    *  User Help Analyst: `£35k - £45k`
+    *  Senior User Help Analyst: `£45k - £55k`
+    *  User Support Manager: `£50k - £60k`
 
 
