@@ -53,7 +53,7 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
 #### 👩‍👨 People
 
 <table>
-  <tr> <th style="width:50%;">Mets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
+  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
   <tr>
     <td>
       <ul>
