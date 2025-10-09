@@ -3,10 +3,9 @@
 This is the framework we use to assess the performance of engineers every 6
 months. Much like the software we write, this framework will never be perfect or finished.
 
-For each role it is split into the same 4 categories:
+For each role it is split into the same 3 categories:
 * 👩‍👨 People
 * 🚚 Delivery
-* 💡 Innovation
 * ✨ Initiative & Influence.
 
 Where the progression framework sets out high level expectations for a role, which may not be achievable every quarter,
