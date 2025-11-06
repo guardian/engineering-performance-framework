@@ -4,14 +4,14 @@ This is the framework we use to assess the performance of engineers every 6
 months. Much like the software we write, this framework will never be perfect or finished.
 
 For each role it is split into the same 3 categories:
-* 👩‍👨 People
 * 🚚 Delivery
 * ✨ Initiative & Influence.
+* 👩‍👨 People
 
 Where the progression framework sets out high level expectations for a role, which may not be achievable every quarter,
 the performance framework details everyday behaviours:
-  - Criteria labeled "Core", we believe, contribute most to the department, and the expectation is that you consistently meet them 
-  - Criteria labeled "Growth", we believe, are behaviours which contribute towards you growing and developing within your role
+  - Criteria labeled "Meets", we believe, contribute most to the department, and the expectation is that you consistently meet them 
+  - Criteria labeled "Exceeds", we believe, are behaviours which contribute towards you growing and developing within your role
 
 #### Review
 Every 6 months, at the end of Q1 and Q3, you and your manager will review your performance over the last 2 quarters using this framework.
@@ -48,27 +48,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
 ---
 
 ### Fellow and Associate Developer
-
-#### 👩‍👨 People
-
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Proactively identifies opportunities to work with others.</li>
-        <li>Shows curiosity in others and their work.</li>
-        <li>Regularly collaborates with their team on their work.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
-        <li>Gives useful feedback to their colleagues.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 #### 🚚 Delivery
 
@@ -120,10 +99,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
 </table>
 
 
----
-
-### Software Developer
-
 #### 👩‍👨 People
 
 <table>
@@ -131,19 +106,23 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
-        <li>Provides some mentoring or guidance to colleagues. This should not simply be contributing an opinion on a technical approach, but taking the time to introduce or improve someone’s working awareness of a topic in a supportive and encouraging way.</li>
-        <li>Demonstrates inclusive behaviours as part of their everyday work.</li>
+        <li>Proactively identifies opportunities to work with others.</li>
+        <li>Shows curiosity in others and their work.</li>
+        <li>Regularly collaborates with their team on their work.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Regularly provides mentoring and guidance to colleagues.</li>
-        <li>Undertakes departmental activities which uphold or improve our engineering culture or inclusivity.</li>
+        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
+        <li>Gives useful feedback to their colleagues.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### Software Developer
 
 #### 🚚 Delivery
 
@@ -201,10 +180,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   </tr>
 </table>
 
----
-
-### Senior Developer
-
 #### 👩‍👨 People
 
 <table>
@@ -212,21 +187,23 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Actively seeks to share knowledge with their colleagues, choosing communication method/styles that are appropriate to them and the situation.</li>
-        <li>Makes a positive contribution to the inclusivity, atmosphere or culture of the department.</li>
-        <li>Regularly advises or mentors others in a way that accelerates their personal development.</li>
+        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
+        <li>Provides some mentoring or guidance to colleagues. This should not simply be contributing an opinion on a technical approach, but taking the time to introduce or improve someone’s working awareness of a topic in a supportive and encouraging way.</li>
+        <li>Demonstrates inclusive behaviours as part of their everyday work.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Seeks to share knowledge beyond their team where useful/relevant (e.g. delegates learning opportunities).</li>
-        <li>Consistently communicates the intention and outcomes from their work, leaving their work in a state where others can easily pick it up (e.g. produces well worded requirements, PRs, documentation, etc). Encourages this behaviour in others.</li>
-        <li>Engages with departmental activities which improve our company or engineering culture and inclusivity.</li>
-        <li>Coaches, mentors and supports their colleagues to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
+        <li>Regularly provides mentoring and guidance to colleagues.</li>
+        <li>Undertakes departmental activities which uphold or improve our engineering culture or inclusivity.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### Senior Developer
 
 #### 🚚 Delivery
 
@@ -284,10 +261,6 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   </tr>
 </table>
 
----
-
-### Staff Developer
-
 #### 👩‍👨 People
 
 <table>
@@ -295,19 +268,24 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   <tr>
     <td>
       <ul>
-        <li>Constantly uses their knowledge and experience to raise the capabilities of their colleagues.</li>
-        <li>Leads by example with the quality of their communication through appropriate means (e.g. exemplary requirements, PRs, documentation and presentations that could be understood with little context in the future).</li>
-        <li>Embodies a culture of respect that influences team processes and promotes empowerment of others - leading to more effective decision-making.</li>
+        <li>Actively seeks to share knowledge with their colleagues, choosing communication method/styles that are appropriate to them and the situation.</li>
+        <li>Makes a positive contribution to the inclusivity, atmosphere or culture of the department.</li>
+        <li>Regularly advises or mentors others in a way that accelerates their personal development.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Identifies potential structural improvements to knowledge sharing, communication or culture of the department and acts on this to deliver improvements across the department.</li>
-        <li>Coaches, mentors and supports all staff to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
+        <li>Seeks to share knowledge beyond their team where useful/relevant (e.g. delegates learning opportunities).</li>
+        <li>Consistently communicates the intention and outcomes from their work, leaving their work in a state where others can easily pick it up (e.g. produces well worded requirements, PRs, documentation, etc). Encourages this behaviour in others.</li>
+        <li>Engages with departmental activities which improve our company or engineering culture and inclusivity.</li>
+        <li>Coaches, mentors and supports their colleagues to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
       </ul>
     </td>
   </tr>
 </table>
+---
+
+### Staff Developer
 
 #### 🚚 Delivery
 
@@ -365,26 +343,31 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
   </tr>
 </table>
 
----
-
-### Principal Developer
-
-
 #### 👩‍👨 People
 
 <table>
-  <tr> <th width="100%">Core Criteria</th></tr>
+  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
   <tr>
     <td>
       <ul>
-        <li>Works with other Principal Engineers across the department to ensure their individual stream strategies align, and that common issues are resolved department wide and not stream-by-stream.</li>
-        <li>Shares knowledge across the department through technical presentations, writes articles, pairs with more junior colleagues, and other appropriate mechanisms.</li>
-        <li>Helps to investigate complex technical issues and provides guidance for more junior developers when dealing with an incident.</li>
-        <li>Mentors Tech Leads and provides guidance on subject architectural choices review and prioritisation of technical debt.</li>
+        <li>Constantly uses their knowledge and experience to raise the capabilities of their colleagues.</li>
+        <li>Leads by example with the quality of their communication through appropriate means (e.g. exemplary requirements, PRs, documentation and presentations that could be understood with little context in the future).</li>
+        <li>Embodies a culture of respect that influences team processes and promotes empowerment of others - leading to more effective decision-making.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Identifies potential structural improvements to knowledge sharing, communication or culture of the department and acts on this to deliver improvements across the department.</li>
+        <li>Coaches, mentors and supports all staff to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### Principal Developer
+
 
 #### 🚚 Delivery
 
@@ -416,6 +399,22 @@ Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhL
         <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
         <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
         <li>Inspires action from colleagues and stakeholders.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 👩‍👨 People
+
+<table>
+  <tr> <th width="100%">Core Criteria</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Works with other Principal Engineers across the department to ensure their individual stream strategies align, and that common issues are resolved department wide and not stream-by-stream.</li>
+        <li>Shares knowledge across the department through technical presentations, writes articles, pairs with more junior colleagues, and other appropriate mechanisms.</li>
+        <li>Helps to investigate complex technical issues and provides guidance for more junior developers when dealing with an incident.</li>
+        <li>Mentors Tech Leads and provides guidance on subject architectural choices review and prioritisation of technical debt.</li>
       </ul>
     </td>
   </tr>
