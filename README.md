@@ -1,422 +1,221 @@
-# Engineering performance framework
+# Engineering growth framework v1.0
 
-This is the framework we use to assess the performance of engineers every 6
-months. Much like the software we write, this framework will never be perfect or finished.
+This framework acts as a guide to what we expect from you in your role, and inspiration for areas for growth. It’s used formally every 6 months, during the end-of-year GNM-wide performance review process, and in the autumn for the Engineering mid-year review. It may also be used in-between as a reference point in 1:1s with your manager. Much like the software we write, this framework will never be perfect or finished.
 
-For each role it is split into the same 3 categories:
-* 🚚 Delivery
-* ✨ Initiative & Influence.
-* 👩‍👨 People
+Each role it is split into three categories:
 
-Where the progression framework sets out high level expectations for a role, which may not be achievable every quarter,
-the performance framework details everyday behaviours:
-  - Criteria labeled "Meets", we believe, contribute most to the department, and the expectation is that you consistently meet them 
-  - Criteria labeled "Exceeds", we believe, are behaviours which contribute towards you growing and developing within your role
+- People
+- Delivery
+- Initiative and Influence.
 
-#### Review
-Every 6 months, at the end of Q1 and Q3, you and your manager will review your performance over the last 2 quarters using this framework.
+The framework sets out high level expectations and everyday behaviours for a role. You should aim to achieve most or all of the criteria for your current role. This will be the expectation for you to achieve the 'meets expectations' criteria during the end of year review. For 'exceeds' expectations we would expect you to also meet some of the criteria at the next level, except at Principal Level. For Principals: meets: most of the criteria, exceeds: all the criteria.
 
-During a performance review, each criteria within each category will be assessed as 'met' or 'not-met':
+Promotions will be assessed on you achieving most or all of the criteria at your current level as well as achieving some criteria from the level above.
+
+Every six months, at the end of Q2 and Q4, you and your manager will review your performance over the last two quarters using this framework.
 
 Taking an active role in your performance gives you the best chance of receiving a fair assessment and of getting the most out of your manager as they support your growth.
 
-#### Roles
+## FAQ
 
-##### Individual Contributor
+### I’ve just started at my level, am I expected to meet all the criteria?
 
-* [Fellow and Associate Developer](#fellow-and-associate-developer)
-* [Software Developer](#software-developer)
-* [Senior Developer](#senior-developer)
-* [Staff Developer](#staff-developer)
-* [Principal Developer](#principal-developer)
+The criteria are indicative and your manager will consider the framework against how long you’ve been on your team, time at your current level and the opportunities available to you in your team context, together with any circumstances that are personal to you. For example, reduced hours or extended periods of leave.
 
-##### Engineering Management
+### I’ve spotted a criterion that is referenced in one level but not the next, does that mean it no longer applies?
 
-* [Associate Engineering Manager](./management/associate-engineering-manager.md)
-* [Engineering Manager](./management/engineering-manager.md)
-* [Senior Engineering Manager](./management/senior-engineering-manager.md)
-* [Head of Engineering](./management/head-of-engineering.md)
+No, generally the criteria build on each other. For example, you will be expected to give and act upon constructive feedback and participate in recruitment activities, when necessary, at Software Developer and above.
 
+## Roles
 
-See the following [Indeed.com article for the difference between an "Individual Contributor" & "Engineering Management"](https://www.indeed.com/career-advice/finding-a-job/what-is-an-individual-contributor).
+### Individual Contributor
 
-#### Salary bands
-[Salary bands for each role](./salary-bands.md)
+- [Level 1: Associate Software Engineer (including Fellows)](#level-1-associate-software-engineer-including-fellows)
+- [Level 2: Software Engineer](#level-2-software-engineer)
+- [Level 3: Senior Software Engineer](#level-3-senior-software-engineer)
+- [Level 4: Staff Software Engineer](#level-4-staff-software-engineer)
+- [Level 5: Principal Software Engineer](#level-5-principal-software-engineer)
 
-Futher detail [here (staff only)](https://docs.google.com/document/d/1muN4pFqRhLFCELD9GS6aU1JaJRNG5tliEMlQVoX8bGE/edit).
+### Engineering Management
 
----
+- [Associate Engineering Manager](./management/associate-engineering-manager.md)
+- [Engineering Manager](./management/engineering-manager.md)
+- [Senior Engineering Manager](./management/senior-engineering-manager.md)
+- [Head of Engineering](./management/head-of-engineering.md)
 
-### Fellow and Associate Developer
+See the following [Indeed.com article for the difference between an 'Individual Contributor' and 'Engineering Management'](https://www.indeed.com/career-advice/finding-a-job/what-is-an-individual-contributor).
 
-#### 🚚 Delivery
+## Salary bands
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Delivers small tasks independently.</li>
-        <li>Takes on bigger pieces of work with support.</li>
-        <li>Takes on PR feedback and improves their work.</li>
-        <li>Seeks advice from more senior engineers when they are blocked.</li>
-        <li>Shows awareness of data privacy or security concerns where relevant.</li>
-        <li>Reviews PRs with helpful comments.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Breaks down large problems into deliverable tasks.</li>
-        <li>Reliably delivers incremental changes with frequency.</li>
-        <li>Can work mostly independently and unblocks their work when necessary by proactively reaching out to stakeholders, gathering data or provoking decisions/discussions.</li>
-        <li>Provides delivery support to other engineers.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-#### ✨ Initiative and Influence
-
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Shares their work to the team or stream.</li>
-        <li>Seeks to actively understand what they are being asked to do.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Seeks to understand the why behind what they are being asked to do.</li>
-        <li>Actively explores new approaches in their own work.</li>
-        <li>Focuses their learning and development plans to align with team goals.</li>
-        <li>Uses data to help with their or their team’s decision-making</li>
-        <li>Takes opportunities to learn about wider department work through involvement in cross-team discussions or groups such as Accessibility Champions.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-#### 👩‍👨 People
-
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Proactively identifies opportunities to work with others.</li>
-        <li>Shows curiosity in others and their work.</li>
-        <li>Regularly collaborates with their team on their work.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
-        <li>Gives useful feedback to their colleagues.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- [Salary bands for each role](./salary-bands.md)
 
 ---
 
-### Software Developer
+### Level 1: Associate Software Engineer (including Fellows)
 
-#### 🚚 Delivery
+An Associate Software Engineer is an early-career engineer focussed on learning, both self-directed and by learning from others around them. Associates demonstrate measurable progress in skills and confidence in independent delivery over time, and take responsibility for their own development with support of their manager. In general Associates should aim to meet the expectations at the Software Engineer level within 18-24 months.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Provides delivery support to colleagues.</li>
-        <li>Breaks down large problems into deliverable tasks.</li>
-        <li>Delivers incremental changes frequently, reliably and with consistently good quality (e.g. readable code which adheres to team standards).</li>
-        <li>Takes responsibility for their code from local testing to supporting it in production.</li>
-        <li>Capable of independent delivery of most tasks.</li>
-        <li>Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches).</li>
-        <li>Recognises when they’re near their limit and reaches out for help from others.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Identifies problems to solve and engages the team in scoping and prioritising their delivery.</li>
-        <li>Demonstrates they can work to external schedule constraints and call out potential issues during estimation.</li>
-        <li>Evaluates multiple options to solve technical problems (using data where relevant), and is trusted by the team to implement their recommended solution.</li>
-        <li>Occasionally reviews PRs in projects where they have less context (e.g. outside their immediate team or dormant projects) with the same consideration.</li>
-        <li>Helps to unblock their peers or shares responsibility for their tasks, in order to meet the team delivery goals.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### People
 
-#### ✨ Initiative and Influence
+- Regularly identifies opportunities to work with members of their team.
+- Engages with departmental activities which uphold our departmental or engineering culture (e.g. hack days, accessibility champions, engineering meet-up etc).
+- Gives useful feedback to their colleagues with the support of their line manager.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Aligns what they are working on to their team’s goals.</li>
-        <li>Regularly gives useful feedback to more senior colleagues.</li>
-        <li>Seeks to fully understand the end goal of the tasks they pick up, and is mindful of this throughout the delivery lifecycle.</li>
-        <li>Provides input into architectural design choices.</li>
-        <li>Regularly demos their work to the stream.</li>
-        <li>Uses relevant data and metrics to inform new ideas and make persuasive arguments.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Occasionally introduces new technical approaches, which are adopted by the team, and make the team more effective.</li>
-        <li>Regularly gives feedback to the team on improving their ways of working, and to team leads each quarter. Helps to implement some of these improvements by being an advocate for them.</li>
-        <li>Regularly demos their work to the team, stream or stakeholders, and contextualises the impact of that work.</li>
-        <li>Supports the team leads in making architectural design decisions (e.g. by writing options papers or architecture decision records).</li>
-        <li>Contributes towards maintaining code and product accessibility standards.</li>
-        <li>Represents the team in cross-team discussions and involves others when appropriate by sharing challenges and progress.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Delivery
 
-#### 👩‍👨 People
+- Initially delivers small tasks with support from other team members.
+- After six months, can deliver some small tasks independently, but may still require support during testing, debugging and releasing to production.
+- After 12 months (this may take longer for Fellows as they rotate teams quarterly during their first year), can demonstrate growth by delivering some medium-sized tasks independently with an appropriate plan for testing and releasing to production.
+- Takes on PR feedback and adjusts approach accordingly.
+- Reviews PRs with occasional helpful comments.
+- Seeks advice from more senior engineers when they are blocked, less frequently over time, and is able to demonstrate they attempted a solution independently.
+- Starts to develop interest in a more specific software development topic such as data privacy, accessibility, security, architecture, analytics, data modelling, CI/CD, developer experience etc.
+- Sometimes volunteers to investigate issues or bugs.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Engages with departmental activities which uphold our departmental or engineering culture.</li>
-        <li>Provides some mentoring or guidance to colleagues. This should not simply be contributing an opinion on a technical approach, but taking the time to introduce or improve someone’s working awareness of a topic in a supportive and encouraging way.</li>
-        <li>Demonstrates inclusive behaviours as part of their everyday work.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Regularly provides mentoring and guidance to colleagues.</li>
-        <li>Undertakes departmental activities which uphold or improve our engineering culture or inclusivity.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Initiative and Influence
+
+- Demos their work to the team or stream.
+- Seeks to understand why the task they are working on is valuable.
+- Focuses their learning and development plans to align with team goals.
 
 ---
 
-### Senior Developer
+### Level 2: Software Engineer
 
-#### 🚚 Delivery
+A Software Engineer is a capable independent contributor who is able to tackle a variety of projects and tasks. They actively contribute to team planning and architectural discussions and are able to articulate trade-offs in decisions. They are developing some areas of technical expertise for which they are a go-to person in their team.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Regularly takes on more difficult tasks which require input from other teams or disciplines.</li>
-        <li>Delivers reliably and with consistently good quality code (e.g. well tested and readable) which defines team standards.</li>
-        <li>Regularly reviews team PRs providing constructive comments, or suggested alternative approaches.</li>
-        <li>Uses relevant data and metrics to support team delivery.</li>
-        <li>Demonstrates working awareness that delivery goes beyond their individual contribution. (E.g. encourages others to improve their own delivery; manages dependencies on other projects and teams; balances short-term delivery with longer term objectives of own and other teams).</li>
-        <li>Committed to meeting their team’s objective and key results. (E.g. adapts delivery approach to meet the needs of the team, unblocks obstacles and supports the team in delivering its goals).</li>
-        <li>Communicates and documents their work thoroughly.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Plays a leading role in planning technical strategy for the team, or shaping the team’s delivery plans.</li>
-        <li>Makes their team successful in meeting their objectives and key results.</li>
-        <li>Balances risks to ensure team delivery.</li>
-        <li>Monitors system and delivery pipeline health to ensure quality of service and team productivity.</li>
-        <li>Brings the team or multiple teams together to maintain delivery pace and quality during periods of change and uncertainty.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### People
 
-#### ✨ Initiative and Influence
+- Regularly provides some mentoring or guidance to colleagues, taking the time to introduce or improve someone’s working awareness of a topic in a supportive and encouraging way.
+- Demonstrates inclusive behaviours towards their colleagues.
+- Supports with the recruitment process when the department is hiring.
+- Acts on constructive feedback.
+- Regularly gives useful feedback to colleagues.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Drives work activities to meet team goals, helping to define tasks, business outcomes, technical quality & OKRs.</li>
-        <li>Helps keep the team focused on their long-term goals and values.</li>
-        <li>Gives regular feedback to the team and engineering manager and actively seeks to make improvements based on team and personal feedback.</li>
-        <li>Works with other engineers to determine the technical architecture within the stream.</li>
-        <li>Regularly involved in cross-team discussions and uses their experience to influence outcomes (e.g. communicates own team’s context to improve shared understanding.)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Introduces new technical approaches when appropriate, which are adopted by the team, and make the team more effective.</li>
-        <li>Demonstrably moves the team’s key result scores as a result of the work they undertake.</li>
-        <li>Demonstrates how the team can learn and improve from failures.</li>
-        <li>Always ensures plans and outcomes are well communicated to stakeholders and the wider business as appropriate.</li>
-        <li>Leads work with other teams to solve cross-team challenges. Understands concerns of other teams and works to balance delivery across boundaries in order to deliver the best outcome overall.</li>
-        <li>Is responsible for maintaining code and product accessibility standards.</li>
-        <li>Shares what they have learnt by tackling difficult technical and people problems.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Delivery
 
-#### 👩‍👨 People
+- Capable of independent delivery of most tasks.
+- Breaks down larger pieces of work into smaller, deliverable tasks.
+- Delivers changes frequently, reliably and with consistent good quality.
+- Takes responsibility for their code from local testing to supporting it in production.
+- Produces clear documentation, including code comments, PR descriptions, handover documents etc.
+- Regularly reviews team PRs providing helpful comments (e.g. constructive criticism / alternative approaches).
+- Demonstrates an understanding of the team’s roadmap, goals and stakeholder expectations.
+- Helps to unblock their peers within their areas of expertise.
+- Develops some expertise in a more specific software development topic such as data privacy, accessibility, security, architecture, analytics, data modelling, CI/CD, developer experience etc.
+- Participates in incident response, for example by taking on resulting actions, if incidents occur.
+- Contributes to addressing the team’s tech debt and health backlog.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Actively seeks to share knowledge with their colleagues, choosing communication method/styles that are appropriate to them and the situation.</li>
-        <li>Makes a positive contribution to the inclusivity, atmosphere or culture of the department.</li>
-        <li>Regularly advises or mentors others in a way that accelerates their personal development.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Seeks to share knowledge beyond their team where useful/relevant (e.g. delegates learning opportunities).</li>
-        <li>Consistently communicates the intention and outcomes from their work, leaving their work in a state where others can easily pick it up (e.g. produces well worded requirements, PRs, documentation, etc). Encourages this behaviour in others.</li>
-        <li>Engages with departmental activities which improve our company or engineering culture and inclusivity.</li>
-        <li>Coaches, mentors and supports their colleagues to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Initiative and Influence
+
+- Promotes their work beyond their team to the wider stakeholders, explaining the motivation and user impact.
+- Thinks outside the immediate task or sprint to identify edge cases, blockers, or risks and raises these with the team.
+- Keeps the end goal of their task in mind in order to prevent scope creep.
+- Provides input into architectural design choices.
+- Measures the impact of their work, after delivering to production, by monitoring relevant data and metrics.
+- Proposes new technical approaches where beneficial, for example to improve architecture or developer experience.
+- Actively participates in team retrospectives and other meetings to improve ways of working.
 
 ---
 
-### Staff Developer
+### Level 3: Senior Software Engineer
 
-#### 🚚 Delivery
+A Senior Software Engineer takes on significant responsibility within a team, sometimes acting as team tech lead or leading on complex technical projects. They consider the long-term aims of the team and health of the estate and are starting to contribute to technical strategy. Their influence is felt across the engineering function - helping to level up other engineers’ technical skills or domain understanding, and working across team boundaries.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Plays a strategic role in the stream’s technical decision-making.</li>
-        <li>Produces high quality code which defines stream standards, and inspires other engineers’ delivery.</li>
-        <li>Provides feedback on important PRs and team’s solution design sessions.</li>
-        <li>Balances short term goals and long term needs.</li>
-        <li>Focuses on high impact and high value work.</li>
-        <li>Demonstrates working awareness that delivery is more than just their individual contribution. (E.g. Promotes continuous improvement, delegates learning opportunities; encourages others to improve their own delivery; manages dependencies on other projects and teams).</li>
-        <li>Committed to meeting their team’s objective and key results.</li>
-        <li>Helps to unblock obstacles and supports the team in delivering its goals.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Staff Developers make successful delivery outcomes happen, for example by <b>either</b>:
-        <ul>
-        <li>Tech leading a significant engineering project which requires coordination with many other teams and disciplines within GNM.</li>
-        <li>Turning around the delivery trajectory of a struggling team.</li>
-        <li>Contributing to the department’s technical and organisational decision-making and strategy.</li>
-        </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### People
 
-#### ✨ Initiative and Influence
+- Mentors at least one more junior colleague, for example by being their buddy / helping to onboard.
+- Proactively engages in team retrospectives, by occasionally taking on and implementing resulting actions.
+- Consistently produces high quality documentation, PR descriptions, handover documents and other forms of communication.
+- Makes a positive contribution to the inclusivity, atmosphere or culture of the department, including during challenging situations.
+- Proactively offers interesting work to others in the team.
+- Provides feedback to more senior colleagues or engineering managers.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Hosts department-wide forums where knowledge and experiences are shared.</li>
-        <li>Provides a solid voice of technical authority when there is uncertainty that’s stalling engineering progress.</li>
-        <li>Helps teams determine the right objectives and goals, and find an appropriate balance of health and maintenance alongside their delivery.</li>
-        <li>Helps teams find technical solutions that fit within the department’s vision and culture.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Demonstrates how the department can manage failure, fail fast, and learn and improve from such failures.</li>
-        <li>Champions Guardian P&E solutions, culture and values externally. For example by hosting external meet-ups, presenting at conferences, or writing blog posts.</li>
-        <li>Enables software to be produced that can be used by, or benefits external communities and is widely accessible.</li>
-        <li>Works to reduce the likelihood that we will encounter high risk technical problems.</li>
-        <li>Demonstrates deep engagement with and application of engineering or product data.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Delivery
 
-#### 👩‍👨 People
+- Shows a high degree of autonomy and leads development on significant pieces of work for their team.
+- Helps define, scope and breakdown tasks where the problem may be ambiguous or not yet well-defined.
+- Actively participates in incident response, showing skills in isolating and remediating the problem and creating follow-up preventative actions.
+- Delivers reliably and with consistently good quality (e.g. well tested and readable code) which defines team standards.
+- Demonstrates consideration for performance, scalability, security, reliability, testability, observability and other non functional requirements depending on context.
+- Proactively engages in health work planning and delivery.
+- Proactively engages others in the team in delivery and does not work in isolation.
+- Monitors system and key product metrics throughout the delivery lifecycle, and acts on relevant indicators.
 
-<table>
-  <tr> <th style="width:50%;">Meets Criteria</th><th style="width:50%;">Exceeds Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Constantly uses their knowledge and experience to raise the capabilities of their colleagues.</li>
-        <li>Leads by example with the quality of their communication through appropriate means (e.g. exemplary requirements, PRs, documentation and presentations that could be understood with little context in the future).</li>
-        <li>Embodies a culture of respect that influences team processes and promotes empowerment of others - leading to more effective decision-making.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Identifies potential structural improvements to knowledge sharing, communication or culture of the department and acts on this to deliver improvements across the department.</li>
-        <li>Coaches, mentors and supports all staff to perform better, share their opinions and insight, and be motivated by the work they undertake.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Initiative and Influence
+
+- Suggests innovative technical solutions to more complex problems.
+- Suggests and supports the implementation of process improvements.
+- Proactively participates in product and technical strategy planning.
+- Leads on technical architecture changes to address clear needs and engages the team in their implementation.
+- Upskills others outside their team with their technical expertise in certain areas.
+- Regularly involved in cross-team discussions to help facilitate collaboration or knowledge sharing.
+- Can represent the team in meetings with stakeholders, advising on timelines and tradeoffs and translating technical concepts.
+- Leads work with other teams to solve cross-team challenges.
 
 ---
 
-### Principal Developer
+### Level 4: Staff Software Engineer
 
+A Staff Software Engineer has deep technical knowledge in several areas and is sought out for their expertise across the engineering function. They actively contribute to team technical strategy and significant initiatives that cross team boundaries. Staff engineers play a proactive role in expanding the capabilities of the engineering function and incorporating learnings from the latest developments in the software industry.
 
-#### 🚚 Delivery
+#### People
 
-<table>
-  <tr> <th width="100%">Core Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Provides technical guidance and oversight to the multiple development teams in your stream.</li>
-        <li>Ensures sound technical architecture with technologies interoperating or connecting well to each other, enabling scale and flexibility to the business. </li>
-        <li>Fixes some issues when your help is requested or you see an organisational or technical value in resolving the problem.</li>
-        <li>Helps define and review stream teams’ Service Levels Objectives (SLO), contributing to streams teams’ backlog prioritisation strategies to match them.</li>
-        <li>Leads evaluation of new technologies and vendors, establishing key technical criterias for assessment, performing some of the technical assessments, and summarising clearly the benefits and drawbacks.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Mentors at least one developer outside their team, and holds regular meetings with them.
+- Occasionally flags opportunities for other developers to them or their engineering managers.
+- Leads by example with the quality and consistency of their communication with stakeholders, product managers, designers, agile leads etc.
+- Embodies and promotes a culture of kindness, respect, patience and inclusivity.
+- Occasionally identifies and implements structural improvements, for example to knowledge sharing, communication or culture. Acts on delivering these improvements across the department through teaching, talks, writing, workshops or recruiting.
 
-#### ✨ Initiative and Influence
+#### Delivery
 
-<table>
-  <tr> <th width="100%">Core Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Attends key meetings with Stakeholders and provide detailed technical views on the subject being discussed.</li>
-        <li>Advises, using data where relevant, on technical challenges and opportunities in conversations with Product Managers, sponsors and senior stakeholders.</li>
-        <li>Leads collaborative discussions about evolving best practices (such as accessibility standards), defining our engineering standards.</li>
-        <li>Seeks out systemic problems and opportunities, and presents proposals to the Head of Engineering on how to, respectively, remediate them and benefit from them.</li>
-        <li>Advises on new technology trials based on your previous experience, and mentor more junior developers in their technical discovery and technology intelligence.</li>
-        <li>Inspires action from colleagues and stakeholders.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Has significant technical and leadership experience across multiple teams and projects, acting as the backstop for technical decision making.
+- Uses their experience to lead large, strategic, complex engineering projects - often crossing team boundaries.
+- Is hands-on, regularly delivering complex pieces of work that define team standards.
+- Drives their team's technical decision-making, and ensures that decisions are documented.
+- Ensures the long term performance and maintainability of the team’s technical platforms and systems.
+- Regularly pairs with team members to unblock them or speed up their delivery.
+- Identifies delivery bottlenecks and addresses them.
+- Leads on addressing incidents, providing direction with calm and clarity, and initiates improvements that will avoid recurrence.
+- Provides realistic estimations, thoughtful scope management, and proactive risk identification in team meetings.
+- Uses data to drive their decision making and implements improvements for metrics and monitoring where needed.
 
-#### 👩‍👨 People
+#### Initiative and Influence
 
-<table>
-  <tr> <th width="100%">Core Criteria</th></tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Works with other Principal Engineers across the department to ensure their individual stream strategies align, and that common issues are resolved department wide and not stream-by-stream.</li>
-        <li>Shares knowledge across the department through technical presentations, writes articles, pairs with more junior colleagues, and other appropriate mechanisms.</li>
-        <li>Helps to investigate complex technical issues and provides guidance for more junior developers when dealing with an incident.</li>
-        <li>Mentors Tech Leads and provides guidance on subject architectural choices review and prioritisation of technical debt.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Drives and delivers significant architectural changes to critical systems.
+- Brings their team along with decisions, not relying on authority alone.
+- Is sought out for input in business-critical decisions, changes or developments.
+- Guides the team towards decommissioning redundant services and functionality.
+- Keeps abreast of industry developments in their areas of expertise and socialises this knowledge, ensuring new solutions are trialled where appropriate.
+- Shares learnings through workshops, courses, lectures or blogs - levelling-up the wider engineering function.
+- Advises, using data where relevant, on technical challenges and opportunities in conversations with Product Managers, sponsors and senior stakeholders.
+
+---
+
+### Level 5: Principal Software Engineer
+
+A Principal Software Engineer is a deeply experienced engineer who leads across multiple teams through influence, trust and respect. They develop and lead initiatives that form part of a longer term technical strategy for these teams, acting to surface and solve problems, reduce duplicated effort and ensure coherence. Along with engineering management they take responsibility for expanding the capabilities of the engineering function and incorporating learnings from the latest developments in the software industry.
+
+#### People
+
+- Mentors at least one senior or staff developer, and holds regular meetings with them.
+- Works with other Principal Engineers across the department to ensure their individual stream strategies align, and that common issues are resolved department-wide and not stream-by-stream.
+- Shares knowledge across the department through technical presentations, writing, pairing with colleagues, and other appropriate mechanisms.
+- Collaborates with engineering managers, advising on team make-up, ways-of-working and highlighting any undesirable patterns.
+
+#### Delivery
+
+- Has sight over and provides technical guidance to multiple development teams and is able to articulate the impact of their contribution.
+- Contributes to technical decisions and delivers architectural changes that result in demonstrable performance increases or cost reductions for those systems.
+- Helps to investigate complex technical issues and provides guidance for other developers when dealing with an incident.
+- Helps define and review Service Level Objectives (SLOs) for their teams, contributing to their backlog prioritisation strategies to match them.
+- Leads, or supports Heads of Engineering with, evaluation of new technologies and vendors, establishing key technical criteria for assessment, performing these assessments, and summarising clearly the benefits and drawbacks.
+- Ensures metrics for products and projects under their remit align with business priorities and goals.
+- Drives discussions around evolving best practice for established technologies and the evaluation of emerging technologies across the department and documents these guidelines.
+
+#### Initiative and Influence
+
+- Seeks out systemic problems and opportunities, and presents proposals to Engineering Managers or Heads of Engineering on how to remediate or benefit from them.
+- Trials innovative technical solutions to significant departmental challenges, and documents their outcome appropriately.
+- Plays a significant role in defining long-term technical direction of the stream aligned with product and business strategy, and ensures the work is carried out to implement it.
+- Drives change when they observe behaviours or ways of working contrary to our culture or values.
