@@ -38,10 +38,10 @@ No, generally the criteria build on each other. For example, you will be expecte
 
 ### Engineering Management
 
-- [Associate Engineering Manager](./management/associate-engineering-manager.md)
-- [Engineering Manager](./management/engineering-manager.md)
-- [Senior Engineering Manager](./management/senior-engineering-manager.md)
-- [Head of Engineering](./management/head-of-engineering.md)
+- [Associate Engineering Manager](https://github.com/guardian/engineering-performance-framework/blob/main/management/associate-engineering-manager.md)
+- [Engineering Manager](https://github.com/guardian/engineering-performance-framework/blob/main/management/engineering-manager.md)
+- [Senior Engineering Manager](https://github.com/guardian/engineering-performance-framework/blob/main/management/senior-engineering-manager.md)
+- [Head of Engineering](https://github.com/guardian/engineering-performance-framework/blob/main/management/head-of-engineering.md)
 
 See the following [Indeed.com article for the difference between an 'Individual Contributor' and 'Engineering Management'](https://www.indeed.com/career-advice/finding-a-job/what-is-an-individual-contributor).
 
