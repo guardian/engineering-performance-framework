@@ -47,4 +47,4 @@ See the following [Indeed.com article for the difference between an 'Individual 
 
 ## Salary bands
 
-- [Salary bands for each role](./salary-bands.md)
+- [Salary bands for each role](https://github.com/guardian/engineering-performance-framework/blob/main/salary-bands.md)
